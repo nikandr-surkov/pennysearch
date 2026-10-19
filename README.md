@@ -46,7 +46,7 @@ PennySearch is the part around the API that fixes this.
 - 23 searches, 484 sources and 35 pages read in full.
 - 59 claims and 111 receipts, every quote found on its page.
 - One disagreement flagged: two different 2025 revenue figures for Anthropic.
-- Total cost: **$0.044**.
+- Total cost: **$0.0435**.
 
 ## Install
 

@@ -82,7 +82,7 @@ def blocks(text: str, claims: Dict[str, Dict[str, Any]]) -> str:
 
 
 def money(x: float) -> str:
-    return "$%.3f" % x if x < 1 else "$%.2f" % x
+    return ("$%.4f" % x) if x < 0.1 else ("$%.3f" % x) if x < 1 else ("$%.2f" % x)
 
 
 def letter_avatar(domain: str) -> str:
@@ -304,17 +304,30 @@ def render(spec: Dict[str, Any], claims_list: List[Dict[str, Any]], sources: Lis
                  '<button data-f="verified">Verified</button><button data-f="single source">Single source</button><button data-f="conflicting">Conflicting</button></div></div>'
                  '<p class="muted">Each quote below was found on the cited page. "Open at the quote" opens the page scrolled to the exact sentence.</p>%s</section>' % "".join(cards))
 
-    # sources
-    rows = []
-    for s in sorted(sources, key=lambda s: (not s.get("read"), -s.get("score", 0)))[:80]:
+    # sources: the ones read and the best of the rest, then what was ranked down and why
+    def srow(s: Dict[str, Any], extra: str = "") -> str:
         flags = "".join('<span class="flag">%s</span>' % esc(f) for f in s.get("flags", []))
-        rows.append('<div class="srow" id="%s">%s<div class="sbody"><a href="%s" target="_blank" rel="noopener">%s</a><div class="smeta">%s &middot; %s &middot; %s%s</div>%s</div>'
-                    '<div class="sscore"><div class="sbar"><i style="width:%d%%"></i></div><span>%d</span></div></div>'
-                    % (esc(s["id"]), letter_avatar(s.get("domain", "")), esc(s.get("url", "#")), esc(s.get("title") or s.get("url", "")),
-                       esc(s.get("domain", "")), esc(s.get("type", "")), esc(s.get("published") or "no date"), " &middot; read in full" if s.get("read") else "",
-                       ('<div class="flags">%s</div>' % flags) if flags else "", int(s.get("score", 0)), int(s.get("score", 0))))
+        return ('<div class="srow%s" id="%s">%s<div class="sbody"><a href="%s" target="_blank" rel="noopener">%s</a><div class="smeta">%s &middot; %s &middot; %s%s</div>%s</div>'
+                '<div class="sscore"><div class="sbar"><i style="width:%d%%"></i></div><span>%d</span></div></div>'
+                % (extra, esc(s["id"]), letter_avatar(s.get("domain", "")), esc(s.get("url", "#")), esc(s.get("title") or s.get("url", "")),
+                   esc(s.get("domain", "")), esc(s.get("type", "")), esc(s.get("published") or "no date"), " &middot; read in full" if s.get("read") else "",
+                   ('<div class="flags">%s</div>' % flags) if flags else "", int(s.get("score", 0)), int(s.get("score", 0))))
+    top = sorted(sources, key=lambda s: (not s.get("read"), -s.get("score", 0)))[:60]
+    shown_ids = {s["id"] for s in top}
+    down_flags = {"listicle", "clickbait?", "sponsored?", "hosted page", "forum / social", "low authority", "not English"}
+    down = sorted([s for s in sources if s["id"] not in shown_ids and down_flags & set(s.get("flags", []))], key=lambda s: s.get("score", 0))
+    down_html = ""
+    if down:
+        counts: Dict[str, int] = {}
+        for s in down:
+            for f in s.get("flags", []):
+                if f in down_flags:
+                    counts[f] = counts.get(f, 0) + 1
+        summary = ", ".join("%d %s" % (n, f) for f, n in sorted(counts.items(), key=lambda kv: -kv[1]))
+        down_html = ('<h3 class="downhead">Ranked down: %d sources</h3><p class="muted">%s. Still listed, never hidden.</p><div class="sources down">%s</div>'
+                     % (len(down), esc(summary), "".join(srow(s, " dim") for s in down[:30])))
     parts.append('<section><h2>Sources</h2><p class="muted">Trust score 0-100 from the provider\'s authority and relevance, the type of site, freshness and the flags shown. '
-                 'Flags lower the rank; they never hide a source.</p><div class="sources">%s</div></section>' % "".join(rows))
+                 'Flags lower the rank; they never hide a source.</p><div class="sources">%s</div>%s</section>' % ("".join(srow(s) for s in top), down_html))
 
     # method
     zero = stats.get("queries_without_results") or []
@@ -455,6 +468,7 @@ background-image:radial-gradient(circle at 0 50%,var(--bg) 7px,transparent 7.5px
 .srow .fav{margin-top:3px}.sbody a{color:var(--ink);font-weight:600}.smeta{font-size:13px;color:var(--muted)}
 .flags{margin-top:5px}.flag{display:inline-block;font-size:11px;font-weight:650;color:var(--bad);background:color-mix(in srgb,var(--bad) 10%,transparent);border-radius:6px;padding:1px 7px;margin:0 5px 3px 0}
 .sscore{display:flex;align-items:center;gap:8px;font:700 13px ui-monospace,Menlo,Consolas,monospace;padding-top:5px}.sbar{flex:1;height:7px;background:var(--soft);border-radius:999px;overflow:hidden}.sbar i{display:block;height:100%;background:var(--cu)}
+.downhead{margin:28px 0 4px}.srow.dim{opacity:.78}.srow.dim .sbody a{font-weight:500}
 .method{font-size:15px;color:var(--muted)}.method summary{cursor:pointer;color:var(--cu)}
 .foot{display:flex;align-items:center;gap:10px;margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
 @media (max-width:640px){body{font-size:16px}.statbar{grid-template-columns:repeat(2,1fr)}.mixes{grid-template-columns:1fr}.srow{grid-template-columns:24px 1fr}.sscore{grid-column:2}.costpill{display:none}.answer{font-size:18px}}

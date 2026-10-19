@@ -169,7 +169,7 @@ def parse_date(s: str) -> Optional[date]:
 # --- score ----------------------------------------------------------------------------------
 
 TYPE_POINTS = {"primary": 22, "official docs": 18, "news": 10, "encyclopedia": 4, "code": 6, "web": 0, "hosted page": -6,
-               "forum / social": -10, "press release": -14}
+               "forum / social": -10, "press release": -6}  # a company's own release is often the primary source for its results; marketing wires get the flag
 
 
 def assess(src: Dict[str, Any], want_lang: Optional[str] = None, today: Optional[date] = None, stale_years: float = 3.0) -> Dict[str, Any]:

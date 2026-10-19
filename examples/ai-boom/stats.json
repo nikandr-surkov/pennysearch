@@ -1,0 +1,25 @@
+{
+ "question": "How much do the cloud providers earn from AI in 2026 (Azure, AWS, Google Cloud growth)?",
+ "queries": 23,
+ "queries_without_results": [],
+ "results": 520,
+ "sources": 484,
+ "read": 35,
+ "search_seconds": 2.0,
+ "read_seconds": 89.69,
+ "seconds": 91.74,
+ "paid_calls": 58,
+ "cached_calls": 0,
+ "cost_usd": 0.0435,
+ "errors": [],
+ "stopped": null,
+ "flags": {
+  "short page": 3,
+  "hosted page": 3,
+  "press release": 3,
+  "listicle": 1,
+  "clickbait?": 3,
+  "forum / social": 13
+ },
+ "rounds": 2
+}

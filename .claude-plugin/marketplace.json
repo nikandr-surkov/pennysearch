@@ -1,0 +1,17 @@
+{
+  "name": "pennysearch",
+  "owner": {
+    "name": "Nikandr Surkov",
+    "url": "https://github.com/nikandr-surkov"
+  },
+  "plugins": [
+    {
+      "name": "pennysearch",
+      "source": "./",
+      "description": "Deep research for a penny: parallel search, trust scores, a receipt for every claim, one-file HTML report.",
+      "homepage": "https://github.com/nikandr-surkov/pennysearch",
+      "license": "MIT"
+    }
+  ],
+  "description": "PennySearch, deep research for any AI agent for about a penny."
+}

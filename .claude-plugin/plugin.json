@@ -1,0 +1,13 @@
+{
+  "name": "pennysearch",
+  "description": "Deep research for a penny. Parallel web search, source trust scores, a receipt for every claim, and a one-file HTML report, for about 2-5 cents per report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nikandr Surkov",
+    "url": "https://github.com/nikandr-surkov"
+  },
+  "homepage": "https://github.com/nikandr-surkov/pennysearch",
+  "repository": "https://github.com/nikandr-surkov/pennysearch",
+  "license": "MIT",
+  "keywords": ["deep-research", "web-search", "fact-checking", "citations", "research-agent"]
+}

@@ -1,0 +1,1659 @@
+[
+ {
+  "sub": "Q1",
+  "claim": "After the April 2026 earnings, the biggest US tech firms planned to spend as much as $725 billion on capex in 2026, mostly on AI data center equipment (Bloomberg).",
+  "value": 725,
+  "unit": "billion USD",
+  "date": "2026",
+  "evidence": [
+   {
+    "source": "S03",
+    "quote": "The biggest US tech firms now plan to spend as much as $725 billion this year on capital expenditures, primarily on AI data center equipment.",
+    "match": "exact",
+    "page_text": "The biggest US tech firms now plan to spend as much as $725 billion this year on capital expenditures, primarily on AI data center equipment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-big-tech-ratchets-up-ai-spending-past-700-billion-this-year?sref=XuSdMNiI#:~:text=The%20biggest%20US%20tech%20firms,on%20AI%20data%20center%20equipment.",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-30/us-big-tech-ratchets-up-ai-spending-past-700-billion-this-year?sref=XuSdMNiI"
+   }
+  ],
+  "id": "C1",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q1",
+  "claim": "After the July 2026 earnings calls, combined 2026 capex guidance of the four largest hyperscalers rose to $720-745 billion, or about $835 billion including Oracle (TMT Finance).",
+  "value": 745,
+  "unit": "billion USD (upper end of 720-745 range; about 835 including Oracle)",
+  "date": "2026",
+  "evidence": [
+   {
+    "source": "S73",
+    "quote": "Combined 2026 capital expenditure guidance across the four largest hyperscalers has climbed to US$720bn-745bn following the latest earnings calls, reinforcing expectations that AI infrastructure investment continues to accelerate. Including Oracle's [NYSE: ORCL] fiscal 2027 guidance would lift the total to around US$835bn.",
+    "match": "exact",
+    "page_text": "Combined 2026 capital expenditure guidance across the four largest hyperscalers has climbed to US$720bn-745bn following the latest earnings calls, reinforcing expectations that AI infrastructure investment continues to accelerate. Including Oracle's [NYSE: ORCL] fiscal 2027 guidance would lift the total to around US$835bn.",
+    "link": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block#:~:text=Combined%202026%20capital%20expenditure%20guidance,the%20total%20to%20around%20US%24835bn.",
+    "url": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block"
+   }
+  ],
+  "id": "C2",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q1",
+  "claim": "In April 2026 Microsoft gave its first calendar-2026 capex estimate, $190 billion, above consensus (up 24% per a Bank of America tally).",
+  "value": 190,
+  "unit": "billion USD",
+  "date": "2026 (calendar year)",
+  "evidence": [
+   {
+    "source": "S03",
+    "quote": "Alphabet Inc. and Meta Platforms Inc. both raised their full-year guidance for capex, while Microsoft Corp. gave its first estimate for spending through the end of December, matching Alphabet at $190 billion.",
+    "match": "exact",
+    "page_text": "Alphabet Inc. and Meta Platforms Inc. both raised their full-year guidance for capex, while Microsoft Corp. gave its first estimate for spending through the end of December, matching Alphabet at $190 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-big-tech-ratchets-up-ai-spending-past-700-billion-this-year?sref=XuSdMNiI#:~:text=Alphabet%20Inc.%20and%20Meta%20Platforms,matching%20Alphabet%20at%20%24190%20billion.",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-30/us-big-tech-ratchets-up-ai-spending-past-700-billion-this-year?sref=XuSdMNiI"
+   },
+   {
+    "source": "S09",
+    "quote": "Microsoft expects to spend $190 billion on capex in calendar 2026, higher than consensus estimates.",
+    "match": "exact",
+    "page_text": "Microsoft expects to spend $190 billion on capex in calendar 2026, higher than consensus estimates.",
+    "link": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click#:~:text=Microsoft%20expects%20to%20spend%20%24190,2026%2C%20higher%20than%20consensus%20estimates.",
+    "url": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click"
+   },
+   {
+    "source": "S41",
+    "quote": "This year's spending projections were up across the board, with Google parent Alphabet up 4% to $185 billion, Amazon up 1% to $200 billion, Meta up 8% to $135 billion, and Microsoft up a whopping 24% to $190 billion, according to a tally by Bank of America.",
+    "match": "exact",
+    "page_text": "This year's spending projections were up across the board, with Google parent Alphabet up 4% to $185 billion, Amazon up 1% to $200 billion, Meta up 8% to $135 billion, and Microsoft up a whopping 24% to $190 billion, according to a tally by Bank of America.",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=This%20year%27s%20spending%20projections%20were,tally%20by%20Bank%20of%20America.",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   }
+  ],
+  "id": "C3",
+  "receipts": 3,
+  "independent": 3,
+  "status": "verified"
+ },
+ {
+  "sub": "Q1",
+  "claim": "Microsoft's lower-looking capex guidance in July 2026 (about $175 billion) is a lease-accounting change (datacentre useful life 15 to 25 years), not less investment; CFO Amy Hood said plans are unchanged, and first-half 2026 capex was $72.9 billion.",
+  "value": 72.9,
+  "unit": "billion USD (first-half actual)",
+  "date": "H1 2026",
+  "evidence": [
+   {
+    "source": "S73",
+    "quote": "Microsoft extended the useful life of its datacentres and office buildings from 15 to 25 years, shifting more future leases off the capex line entirely so its apparent reduction reflects this accounting change rather than a meaningful reduction in investment.",
+    "match": "exact",
+    "page_text": "Microsoft extended the useful life of its datacentres and office buildings from 15 to 25 years, shifting more future leases off the capex line entirely so its apparent reduction reflects this accounting change rather than a meaningful reduction in investment.",
+    "link": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block#:~:text=Microsoft%20extended%20the%20useful%20life,a%20meaningful%20reduction%20in%20investment.",
+    "url": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block"
+   },
+   {
+    "source": "S73",
+    "quote": "CFO Amy Hood said spending plans 'remain unchanged' in economic terms in the company’s earnings call on 29 July. The change applies only from Microsoft's 2027 financial year, so the US$72.9bn first-half actual is unaffected.",
+    "match": "exact",
+    "page_text": "CFO Amy Hood said spending plans 'remain unchanged' in economic terms in the company’s earnings call on 29 July. The change applies only from Microsoft's 2027 financial year, so the US$72.9bn first-half actual is unaffected.",
+    "link": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block#:~:text=CFO%20Amy%20Hood%20said%20spending,US%2472.9bn%20first%2Dhalf%20actual%20is%20unaffected.",
+    "url": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block"
+   }
+  ],
+  "id": "C4",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q1",
+  "claim": "In April 2026 Alphabet raised its full-year 2026 capex guidance to $180-190 billion from $175-185 billion.",
+  "value": 190,
+  "unit": "billion USD (upper end of 180-190 range)",
+  "date": "2026",
+  "evidence": [
+   {
+    "source": "S09",
+    "quote": "Google raised its full-year capex guidance to $180 billion to $190 billion, vs. its previous range of $175 billion to $185 billion.",
+    "match": "exact",
+    "page_text": "Google raised its full-year capex guidance to $180 billion to $190 billion, vs. its previous range of $175 billion to $185 billion.",
+    "link": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click#:~:text=Google%20raised%20its%20full%2Dyear%20capex,%24175%20billion%20to%20%24185%20billion.",
+    "url": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click"
+   },
+   {
+    "source": "S41",
+    "quote": "This year's spending projections were up across the board, with Google parent Alphabet up 4% to $185 billion, Amazon up 1% to $200 billion, Meta up 8% to $135 billion, and Microsoft up a whopping 24% to $190 billion, according to a tally by Bank of America.",
+    "match": "exact",
+    "page_text": "This year's spending projections were up across the board, with Google parent Alphabet up 4% to $185 billion, Amazon up 1% to $200 billion, Meta up 8% to $135 billion, and Microsoft up a whopping 24% to $190 billion, according to a tally by Bank of America.",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=This%20year%27s%20spending%20projections%20were,tally%20by%20Bank%20of%20America.",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   }
+  ],
+  "id": "C5",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q1",
+  "claim": "In July 2026 Alphabet, Amazon and Meta all raised their capex plans again, with Alphabet's CFO tying the increase to faster delivery of capacity for growing demand.",
+  "value": 3,
+  "unit": "companies raising guidance",
+  "date": "Q2 2026 earnings (July 2026)",
+  "evidence": [
+   {
+    "source": "S73",
+    "quote": "Alphabet [NASDAQ: GOOGL], Amazon [NASDAQ: AMZN] and Meta Platforms [NASDAQ: META] all raised capital expenditure in the latest earnings round, while Microsoft's [NASDAQ: MSFT] apparent reduction reflects an accounting change rather than lower investment.",
+    "match": "exact",
+    "page_text": "Alphabet [NASDAQ: GOOGL], Amazon [NASDAQ: AMZN] and Meta Platforms [NASDAQ: META] all raised capital expenditure in the latest earnings round, while Microsoft's [NASDAQ: MSFT] apparent reduction reflects an accounting change rather than lower investment.",
+    "link": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block#:~:text=Alphabet%20%5BNASDAQ%3A%20GOOGL%5D%2C%20Amazon%20%5BNASDAQ%3A,change%20rather%20than%20lower%20investment.",
+    "url": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block"
+   },
+   {
+    "source": "S73",
+    "quote": "CFO Anat Ashkenazi tied Alphabet’s increase to 'an acceleration in the delivery of capacity to meet growing demand' in the company’s earnings call, with roughly 60% of this quarter's spend going into servers and the rest into datacentres and networking.",
+    "match": "exact",
+    "page_text": "CFO Anat Ashkenazi tied Alphabet’s increase to 'an acceleration in the delivery of capacity to meet growing demand' in the company’s earnings call, with roughly 60% of this quarter's spend going into servers and the rest into datacentres and networking.",
+    "link": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block#:~:text=CFO%20Anat%20Ashkenazi%20tied%20Alphabet%E2%80%99s,rest%20into%20datacentres%20and%20networking.",
+    "url": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block"
+   }
+  ],
+  "id": "C6",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q1",
+  "claim": "In April 2026 Amazon kept its 2026 capex plan unchanged at about $200 billion.",
+  "value": 200,
+  "unit": "billion USD",
+  "date": "2026",
+  "evidence": [
+   {
+    "source": "S03",
+    "quote": "Amazon.com Inc. was alone among the big four data center developers — which have come to be referred to as the industry’s hyperscalers — to keep its figures unchanged, at $200 billion, though it reported a surge in spending in the March quarter that whittled down its free cash flow.",
+    "match": "exact",
+    "page_text": "Amazon.com Inc. was alone among the big four data center developers — which have come to be referred to as the industry’s hyperscalers — to keep its figures unchanged, at $200 billion, though it reported a surge in spending in the March quarter that whittled down its free cash flow.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-big-tech-ratchets-up-ai-spending-past-700-billion-this-year?sref=XuSdMNiI#:~:text=Amazon.com%20Inc.%20was%20alone%20among,down%20its%20free%20cash%20flow.",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-30/us-big-tech-ratchets-up-ai-spending-past-700-billion-this-year?sref=XuSdMNiI"
+   },
+   {
+    "source": "S09",
+    "quote": "Amazon previously said 2026 capex will be about $200 billion.",
+    "match": "exact",
+    "page_text": "Amazon previously said 2026 capex will be about $200 billion.",
+    "link": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click#:~:text=Amazon%20previously%20said%202026%20capex,will%20be%20about%20%24200%20billion.",
+    "url": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click"
+   },
+   {
+    "source": "S41",
+    "quote": "Amazon CEO Andy Jassy said the company is \"confident in the long term capex investments we're making,\" projecting $200 billion in buildout for the year.",
+    "match": "exact",
+    "page_text": "Amazon CEO Andy Jassy said the company is \"confident in the long term capex investments we're making,\" projecting $200 billion in buildout for the year.",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=Amazon%20CEO%20Andy%20Jassy%20said,in%20buildout%20for%20the%20year.",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   }
+  ],
+  "id": "C7",
+  "receipts": 3,
+  "independent": 3,
+  "status": "verified"
+ },
+ {
+  "sub": "Q1",
+  "claim": "In July 2026 Amazon raised its 2026 cash capex from about $200 billion to roughly $220 billion, blamed largely on higher memory costs, with no change to the build plan.",
+  "value": 220,
+  "unit": "billion USD",
+  "date": "2026",
+  "evidence": [
+   {
+    "source": "S73",
+    "quote": "Amazon's increase was pinned by chief financial officer Brian Olsavsky largely on 'the higher cost of memory', which pushed 2026 cash capex from around US$200bn to roughly US$220bn without any change to the underlying build plan.",
+    "match": "exact",
+    "page_text": "Amazon's increase was pinned by chief financial officer Brian Olsavsky largely on 'the higher cost of memory', which pushed 2026 cash capex from around US$200bn to roughly US$220bn without any change to the underlying build plan.",
+    "link": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block#:~:text=Amazon%27s%20increase%20was%20pinned%20by,to%20the%20underlying%20build%20plan.",
+    "url": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block"
+   }
+  ],
+  "id": "C8",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q1",
+  "claim": "Meta spent $72 billion on capex in 2025 and in April 2026 raised its 2026 outlook to $125-145 billion (from $115-135 billion), roughly double.",
+  "value": 72,
+  "unit": "billion USD (2025 actual; 2026 outlook 125-145)",
+  "date": "2025",
+  "evidence": [
+   {
+    "source": "S41",
+    "quote": "The scompany spent $72 billion on capex in 2025, and is expecting to double that in 2026 to between $125 billion and $145 billion.",
+    "match": "exact",
+    "page_text": "The scompany spent $72 billion on capex in 2025, and is expecting to double that in 2026 to between $125 billion and $145 billion.",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=The%20scompany%20spent%20%2472%20billion,%24125%20billion%20and%20%24145%20billion.",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   },
+   {
+    "source": "S09",
+    "quote": "Meta hiked its full-year data-center capex outlook to $125 billion to $145 billion from its prior range of $115 billion to $135 billion.",
+    "match": "exact",
+    "page_text": "Meta hiked its full-year data-center capex outlook to $125 billion to $145 billion from its prior range of $115 billion to $135 billion.",
+    "link": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click#:~:text=Meta%20hiked%20its%20full%2Dyear%20data%2Dcenter,%24115%20billion%20to%20%24135%20billion.",
+    "url": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click"
+   }
+  ],
+  "id": "C9",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q1",
+  "claim": "In July 2026 Meta narrowed its 2026 capex guidance to $130-145 billion, from $125-145 billion.",
+  "value": 145,
+  "unit": "billion USD (upper end of 130-145 range)",
+  "date": "2026",
+  "evidence": [
+   {
+    "source": "S36",
+    "quote": "We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $130-145 billion, narrowed from our prior outlook of $125-145 billion.",
+    "match": "exact",
+    "page_text": "We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $130-145 billion, narrowed from our prior outlook of $125-145 billion.",
+    "link": "https://markets.businessinsider.com/news/stocks/meta-platforms-narrows-fy26-capital-expenditure-view-to-130b--145b-1036381681#:~:text=We%20anticipate%202026%20capital%20expenditures%2C,prior%20outlook%20of%20%24125%2D145%20billion.",
+    "url": "https://markets.businessinsider.com/news/stocks/meta-platforms-narrows-fy26-capital-expenditure-view-to-130b--145b-1036381681"
+   }
+  ],
+  "id": "C10",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q1",
+  "claim": "Big Tech capex hit a record $130 billion in the first quarter of 2026 (FT); RBC said aggregate capex of the top four is tracking close to 70% growth in 2026.",
+  "value": 130,
+  "unit": "billion USD (quarterly)",
+  "date": "Q1 2026",
+  "evidence": [
+   {
+    "source": "S50",
+    "quote": "Column chart of Capital expenditures ($bn) showing Big Tech capex reached a record $130bn in the first quarter",
+    "match": "exact",
+    "page_text": "Column chart of Capital expenditures ($bn) showing Big Tech capex reached a record $130bn in the first quarter",
+    "link": "http://app003.ftchinese.com/interactive/264267/en#:~:text=Column%20chart%20of%20Capital%20expenditures,%24130bn%20in%20the%20first%20quarter",
+    "url": "http://app003.ftchinese.com/interactive/264267/en"
+   },
+   {
+    "source": "S09",
+    "quote": "Aggregate capex among the top four hyperscalers is now tracking close to 70% growth in 2026 vs. the prior estimate of 60%, RBC Capital Markets analyst Srini Pajjuri said in a client note Thursday.",
+    "match": "exact",
+    "page_text": "Aggregate capex among the top four hyperscalers is now tracking close to 70% growth in 2026 vs. the prior estimate of 60%, RBC Capital Markets analyst Srini Pajjuri said in a client note Thursday.",
+    "link": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click#:~:text=Aggregate%20capex%20among%20the%20top,in%20a%20client%20note%20Thursday.",
+    "url": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click"
+   }
+  ],
+  "id": "C11",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q1",
+  "claim": "Analysts (Evercore, Bank of America) forecast Big Tech AI capex above $1 trillion in 2027, after 2026 estimates of $800-900 billion; Nvidia's CFO cited the same $1 trillion 2027 forecast.",
+  "value": 1000,
+  "unit": "billion USD",
+  "date": "2027",
+  "evidence": [
+   {
+    "source": "S41",
+    "quote": "Both Evercore and Bank of America placed 2027 capex in excess of a $1 trillion after the earnings calls, with 2026 estimates rising to between $800 and $900 billion.",
+    "match": "exact",
+    "page_text": "Both Evercore and Bank of America placed 2027 capex in excess of a $1 trillion after the earnings calls, with 2026 estimates rising to between $800 and $900 billion.",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=Both%20Evercore%20and%20Bank%20of,between%20%24800%20and%20%24900%20billion.",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   },
+   {
+    "source": "S09",
+    "quote": "Lipacis estimates capex will reach $900 billion in 2026 and $1.1 trillion in 2027.",
+    "match": "exact",
+    "page_text": "Lipacis estimates capex will reach $900 billion in 2026 and $1.1 trillion in 2027.",
+    "link": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click#:~:text=Lipacis%20estimates%20capex%20will%20reach,and%20%241.1%20trillion%20in%202027.",
+    "url": "https://www.investors.com/news/technology/data-center-capex-hikes-positive-ai-stocks/?src=A00619&refcode=aflMarketWatch&mod=newsviewer_click"
+   },
+   {
+    "source": "S73",
+    "quote": "Nvidia's [NASDAQ: NVDA] CFO Colette Kress gave the most bullish framing in the company's earnings call, citing third-party analyst forecasts of hyperscale capex topping US$1 trillion in 2027 and total AI infrastructure spending reaching US$3 trillion to US$4 trillion per year by 2030.",
+    "match": "exact",
+    "page_text": "Nvidia's [NASDAQ: NVDA] CFO Colette Kress gave the most bullish framing in the company's earnings call, citing third-party analyst forecasts of hyperscale capex topping US$1 trillion in 2027 and total AI infrastructure spending reaching US$3 trillion to US$4 trillion per year by 2030.",
+    "link": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block#:~:text=Nvidia%27s%20%5BNASDAQ%3A%20NVDA%5D%20CFO%20Colette,trillion%20per%20year%20by%202030.",
+    "url": "https://www.tmtfinance.com/intel/2026-hyperscaler-capex-tops-us700bn-analysis?trk=article-ssr-frontend-pulse_little-text-block"
+   }
+  ],
+  "id": "C12",
+  "receipts": 3,
+  "independent": 3,
+  "status": "verified"
+ },
+ {
+  "sub": "Q2",
+  "claim": "Anthropic reported actual revenue of 16.8 billion USD for Q3 2026 (self-reported, unaudited, per CNBC), more than three times its Q1 revenue.",
+  "value": 16.8,
+  "unit": "billion USD quarterly revenue (actual, self-reported)",
+  "date": "2026-Q3",
+  "evidence": [
+   {
+    "source": "S69",
+    "quote": "According to CNBC, Anthropic reported $16.8 billion in revenue for the third quarter of 2026.",
+    "match": "exact",
+    "page_text": "According to CNBC, Anthropic reported $16.8 billion in revenue for the third quarter of 2026.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=According%20to%20CNBC%2C%20Anthropic%20reported,the%20third%20quarter%20of%202026.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   },
+   {
+    "source": "S60",
+    "quote": "The frontier AI lab said its third-quarter revenue grew more than threefold compared to the first three months of the year, while the Taiwanese chipmaker reported a sixth consecutive record quarterly profit.",
+    "match": "exact",
+    "page_text": "The frontier AI lab said its third-quarter revenue grew more than threefold compared to the first three months of the year, while the Taiwanese chipmaker reported a sixth consecutive record quarterly profit.",
+    "link": "https://www.semafor.com/article/08/14/2026/openai-revenue-set-to-top-40-billion#:~:text=The%20frontier%20AI%20lab%20said,sixth%20consecutive%20record%20quarterly%20profit.",
+    "url": "https://www.semafor.com/article/08/14/2026/openai-revenue-set-to-top-40-billion"
+   }
+  ],
+  "id": "C13",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q2",
+  "claim": "Anthropic's Q2 2026 revenue was about 11.6 billion USD (a preliminary 11.5 billion was shared with investors in August, a 14-fold jump from a year earlier).",
+  "value": 11.6,
+  "unit": "billion USD quarterly revenue (actual, self-reported)",
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S69",
+    "quote": "This follows $11.6 billion in Q2 and $4.7 billion in Q1, representing a 45% quarter-over-quarter growth rate.",
+    "match": "exact",
+    "page_text": "This follows $11.6 billion in Q2 and $4.7 billion in Q1, representing a 45% quarter-over-quarter growth rate.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=This%20follows%20%2411.6%20billion%20in,a%2045%25%20quarter%2Dover%2Dquarter%20growth%20rate.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   },
+   {
+    "source": "S48",
+    "quote": "Anthropic also shared a preliminary revenue figure of $11.5 billion for the second quarter, a 14-fold jump from a year ago, a source said.",
+    "match": "exact",
+    "page_text": "Anthropic also shared a preliminary revenue figure of $11.5 billion for the second quarter, a 14-fold jump from a year ago, a source said.",
+    "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html#:~:text=Anthropic%20also%20shared%20a%20preliminary,year%20ago%2C%20a%20source%20said.",
+    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html"
+   }
+  ],
+  "id": "C14",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q2",
+  "claim": "Anthropic's Q1 2026 revenue was 4.7 billion USD (self-reported, per CNBC).",
+  "value": 4.7,
+  "unit": "billion USD quarterly revenue (actual, self-reported)",
+  "date": "2026-Q1",
+  "evidence": [
+   {
+    "source": "S69",
+    "quote": "This follows $11.6 billion in Q2 and $4.7 billion in Q1, representing a 45% quarter-over-quarter growth rate.",
+    "match": "exact",
+    "page_text": "This follows $11.6 billion in Q2 and $4.7 billion in Q1, representing a 45% quarter-over-quarter growth rate.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=This%20follows%20%2411.6%20billion%20in,a%2045%25%20quarter%2Dover%2Dquarter%20growth%20rate.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C15",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q2",
+  "claim": "Anthropic said in May 2026 that its revenue run rate topped 47 billion USD (company statement; the two labs may not measure run rate the same way).",
+  "value": 47,
+  "unit": "billion USD annualized run rate",
+  "date": "2026-05",
+  "evidence": [
+   {
+    "source": "S48",
+    "quote": "In May, Anthropic said its run rate topped $47 billion, compared to the roughly $10 billion in revenue the company generated for all of 2025.",
+    "match": "exact",
+    "page_text": "In May, Anthropic said its run rate topped $47 billion, compared to the roughly $10 billion in revenue the company generated for all of 2025.",
+    "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html#:~:text=In%20May%2C%20Anthropic%20said%20its,generated%20for%20all%20of%202025.",
+    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html"
+   },
+   {
+    "source": "S79",
+    "quote": "Anthropic said in May that its run-rate revenue had crossed $47 billion, though the two firms may not measure it the same way.",
+    "match": "exact",
+    "page_text": "Anthropic said in May that its run-rate revenue had crossed $47 billion, though the two firms may not measure it the same way.",
+    "link": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms#:~:text=Anthropic%20said%20in%20May%20that,measure%20it%20the%20same%20way.",
+    "url": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms"
+   }
+  ],
+  "id": "C16",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q2",
+  "claim": "Anthropic told investors its annualized revenue run rate hit 65 billion USD at the end of July 2026, up from 9 billion at the end of 2025 (investor update; Bloomberg first, CNBC confirmed).",
+  "value": 65,
+  "unit": "billion USD annualized run rate",
+  "date": "2026-07",
+  "evidence": [
+   {
+    "source": "S48",
+    "quote": "Anthropic’s annualized revenue run rate hit $65 billion at the end of July, CNBC confirmed on Monday, a sevenfold increase from a year ago.",
+    "match": "exact",
+    "page_text": "Anthropic’s annualized revenue run rate hit $65 billion at the end of July, CNBC confirmed on Monday, a sevenfold increase from a year ago.",
+    "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html#:~:text=Anthropic%E2%80%99s%20annualized%20revenue%20run%20rate,increase%20from%20a%20year%20ago.",
+    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html"
+   },
+   {
+    "source": "S75",
+    "quote": "Anthropic’s revenue run rate hit $65 billion by the end of July, Bloomberg News has previously reported, up from $9 billion at the end of 2025.",
+    "match": "exact",
+    "page_text": "Anthropic’s revenue run rate hit $65 billion by the end of July, Bloomberg News has previously reported, up from $9 billion at the end of 2025.",
+    "link": "https://www.thehindubusinessline.com/info-tech/anthropics-annualised-revenue-to-top-100-billion-in-2026/article71483703.ece#:~:text=Anthropic%E2%80%99s%20revenue%20run%20rate%20hit,at%20the%20end%20of%202025.",
+    "url": "https://www.thehindubusinessline.com/info-tech/anthropics-annualised-revenue-to-top-100-billion-in-2026/article71483703.ece"
+   },
+   {
+    "source": "S74",
+    "quote": "Anthropic’s annualized revenue hit $65 billion by the end of July, Bloomberg News previously reported.",
+    "match": "exact",
+    "page_text": "Anthropic’s annualized revenue hit $65 billion by the end of July, Bloomberg News previously reported.",
+    "link": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp#:~:text=Anthropic%E2%80%99s%20annualized%20revenue%20hit%20%2465,July%2C%20Bloomberg%20News%20previously%20reported.",
+    "url": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp"
+   }
+  ],
+  "id": "C17",
+  "receipts": 3,
+  "independent": 3,
+  "status": "verified"
+ },
+ {
+  "sub": "Q2",
+  "claim": "Anthropic is expected to exceed 100 billion USD in annualized revenue in 2026 (New York Times, citing people familiar, via Bloomberg).",
+  "value": 100,
+  "unit": "billion USD annualized run rate (projection for 2026)",
+  "date": "2026-09",
+  "evidence": [
+   {
+    "source": "S02",
+    "quote": "Anthropic PBC is expected to generate more than $100 billion in annualized revenue this year as it continues to prepare for a trading debut as soon as November, according to the New York Times, citing people familiar with the matter.",
+    "match": "exact",
+    "page_text": "Anthropic PBC is expected to generate more than $100 billion in annualized revenue this year as it continues to prepare for a trading debut as soon as November, according to the New York Times, citing people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt?srnd=homepage-asia#:~:text=Anthropic%20PBC%20is%20expected%20to,people%20familiar%20with%20the%20matter.",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt?srnd=homepage-asia"
+   },
+   {
+    "source": "S75",
+    "quote": "Anthropic PBC is expected to generate more than $100 billion in annualised revenue this year as it continues to prepare for a trading debut as soon as November, according to the New York Times, citing people familiar with the matter.",
+    "match": "exact",
+    "page_text": "Anthropic PBC is expected to generate more than $100 billion in annualised revenue this year as it continues to prepare for a trading debut as soon as November, according to the New York Times, citing people familiar with the matter.",
+    "link": "https://www.thehindubusinessline.com/info-tech/anthropics-annualised-revenue-to-top-100-billion-in-2026/article71483703.ece#:~:text=Anthropic%20PBC%20is%20expected%20to,people%20familiar%20with%20the%20matter.",
+    "url": "https://www.thehindubusinessline.com/info-tech/anthropics-annualised-revenue-to-top-100-billion-in-2026/article71483703.ece"
+   }
+  ],
+  "id": "C18",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q2",
+  "claim": "By October 2026 Anthropic's annualized run rate was approaching roughly 110 billion USD (Wall Street Journal, via Forkast).",
+  "value": 110,
+  "unit": "billion USD annualized run rate",
+  "date": "2026-10",
+  "evidence": [
+   {
+    "source": "S69",
+    "quote": "This trajectory has pushed the company toward an annualized run rate of roughly $110 billion, according to the Wall Street Journal.",
+    "match": "exact",
+    "page_text": "This trajectory has pushed the company toward an annualized run rate of roughly $110 billion, according to the Wall Street Journal.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=This%20trajectory%20has%20pushed%20the,to%20the%20Wall%20Street%20Journal.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C19",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q2",
+  "claim": "Anthropic reports adjusted gross margins of about 85% and 1.70 USD of revenue per 1 USD spent on compute, claiming adjusted profitability for a second straight quarter (Financial Times, via Forkast).",
+  "value": 1.7,
+  "unit": "USD revenue per 1 USD of compute spend",
+  "date": "2026-Q3",
+  "evidence": [
+   {
+    "source": "S69",
+    "quote": "The company reports adjusted gross margins of approximately 85%, with a reported $1.70 in revenue generated for every $1 spent on compute, according to the Financial Times.",
+    "match": "exact",
+    "page_text": "The company reports adjusted gross margins of approximately 85%, with a reported $1.70 in revenue generated for every $1 spent on compute, according to the Financial Times.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=The%20company%20reports%20adjusted%20gross,according%20to%20the%20Financial%20Times.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C20",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q2",
+  "claim": "OpenAI's annualized revenue was on track to top 40 billion USD in August 2026, roughly double its run rate at the end of 2025 (Bloomberg, people familiar; also CNBC).",
+  "value": 40,
+  "unit": "billion USD annualized run rate",
+  "date": "2026-08",
+  "evidence": [
+   {
+    "source": "S79",
+    "quote": "OpenAI is on track to generate annualised revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street debut.",
+    "match": "exact",
+    "page_text": "OpenAI is on track to generate annualised revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street debut.",
+    "link": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms#:~:text=OpenAI%20is%20on%20track%20to,for%20a%20Wall%20Street%20debut.",
+    "url": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms"
+   },
+   {
+    "source": "S60",
+    "quote": "OpenAI’s annualized revenue is set to top $40 billion, Bloomberg reported, one of the quickest growth stories in history, though rivals are fast gaining ground.",
+    "match": "exact",
+    "page_text": "OpenAI’s annualized revenue is set to top $40 billion, Bloomberg reported, one of the quickest growth stories in history, though rivals are fast gaining ground.",
+    "link": "https://www.semafor.com/article/08/14/2026/openai-revenue-set-to-top-40-billion#:~:text=OpenAI%E2%80%99s%20annualized%20revenue%20is%20set,rivals%20are%20fast%20gaining%20ground.",
+    "url": "https://www.semafor.com/article/08/14/2026/openai-revenue-set-to-top-40-billion"
+   },
+   {
+    "source": "S48",
+    "quote": "At chief rival OpenAI, the annualized revenue run rate recently hit $40 billion, as CNBC reported last week.",
+    "match": "exact",
+    "page_text": "At chief rival OpenAI, the annualized revenue run rate recently hit $40 billion, as CNBC reported last week.",
+    "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html#:~:text=At%20chief%20rival%20OpenAI%2C%20the,as%20CNBC%20reported%20last%20week.",
+    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html"
+   }
+  ],
+  "id": "C21",
+  "receipts": 3,
+  "independent": 3,
+  "status": "verified"
+ },
+ {
+  "sub": "Q2",
+  "claim": "OpenAI ended 2025 with more than 20 billion USD in annualized revenue, according to its CFO Sarah Friar, and its run rate grew more than 20% month over month in July 2026, according to president Greg Brockman.",
+  "value": 20,
+  "unit": "billion USD annualized run rate",
+  "date": "2025-12",
+  "evidence": [
+   {
+    "source": "S79",
+    "quote": "Sarah Friar, OpenAI’s chief financial officer, previously said the company had ended last year with more than $20 billion in annualized revenue.",
+    "match": "exact",
+    "page_text": "Sarah Friar, OpenAI’s chief financial officer, previously said the company had ended last year with more than $20 billion in annualized revenue.",
+    "link": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms#:~:text=Sarah%20Friar%2C%20OpenAI%E2%80%99s%20chief%20financial,%2420%20billion%20in%20annualized%20revenue.",
+    "url": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms"
+   },
+   {
+    "source": "S79",
+    "quote": "As part of an internal announcement for the hire, OpenAI co-founder and President Greg Brockman said the company’s annual revenue run rate increased more than 20% month-over-month in July.",
+    "match": "exact",
+    "page_text": "As part of an internal announcement for the hire, OpenAI co-founder and President Greg Brockman said the company’s annual revenue run rate increased more than 20% month-over-month in July.",
+    "link": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms#:~:text=As%20part%20of%20an%20internal,than%2020%25%20month%2Dover%2Dmonth%20in%20July.",
+    "url": "https://m.economictimes.com/tech/artificial-intelligence/openais-annualised-revenue-tops-40-billion-ahead-of-ipo/amp_articleshow/133233207.cms"
+   }
+  ],
+  "id": "C22",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q2",
+  "claim": "OpenAI's annualized revenue was roughly 50 billion USD at the end of September 2026 (numbers shared with investors, per people familiar, Bloomberg).",
+  "value": 50,
+  "unit": "billion USD annualized run rate",
+  "date": "2026-09",
+  "evidence": [
+   {
+    "source": "S74",
+    "quote": "The ChatGPT-maker’s annualized revenue was roughly $50 billion at the end of September, the people said.",
+    "match": "exact",
+    "page_text": "The ChatGPT-maker’s annualized revenue was roughly $50 billion at the end of September, the people said.",
+    "link": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp#:~:text=The%20ChatGPT%2Dmaker%E2%80%99s%20annualized%20revenue%20was,of%20September%2C%20the%20people%20said.",
+    "url": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp"
+   }
+  ],
+  "id": "C23",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q2",
+  "claim": "OpenAI expects to reach or exceed 70 billion USD in annualized revenue by the end of 2026, driven by enterprise; earlier reports of nearly 70 billion in September came from investors using Anthropic's way of counting cloud-provider sales.",
+  "value": 70,
+  "unit": "billion USD annualized run rate (projection for end of 2026)",
+  "date": "2026-12",
+  "evidence": [
+   {
+    "source": "S74",
+    "quote": "OpenAI is expecting to reach or exceed $70 billion in annualized revenue by the end of the year, according to people familiar with the matter, driven largely by growth in its enterprise business.",
+    "match": "exact",
+    "page_text": "OpenAI is expecting to reach or exceed $70 billion in annualized revenue by the end of the year, according to people familiar with the matter, driven largely by growth in its enterprise business.",
+    "link": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp#:~:text=OpenAI%20is%20expecting%20to%20reach,growth%20in%20its%20enterprise%20business.",
+    "url": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp"
+   },
+   {
+    "source": "S74",
+    "quote": "Some outlets reported last month that OpenAI was already projecting nearly $70 billion in annualized revenue, based on investor estimates. The Financial Times reported Thursday that the discrepancy came from OpenAI’s investors attempting to calculate OpenAI’s annualized revenue using the same methods as rival Anthropic PBC, which accounts for sales from cloud providers differently.",
+    "match": "exact",
+    "page_text": "Some outlets reported last month that OpenAI was already projecting nearly $70 billion in annualized revenue, based on investor estimates. The Financial Times reported Thursday that the discrepancy came from OpenAI’s investors attempting to calculate OpenAI’s annualized revenue using the same methods as rival Anthropic PBC, which accounts for sales from cloud providers differently.",
+    "link": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp#:~:text=Some%20outlets%20reported%20last%20month,sales%20from%20cloud%20providers%20differently.",
+    "url": "https://www.moneycontrol.com/artificial-intelligence/openai-expects-70-billion-in-annualised-revenue-by-2026-end-up-from-50-billion-in-september-article-14048162.html/amp"
+   }
+  ],
+  "id": "C24",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q3",
+  "claim": "AWS revenue rose 37% to $42.2 billion in Q2 2026, its fastest growth since Q4 2021 and the fifth straight quarter of accelerating sales.",
+  "value": 42.2,
+  "unit": "billion USD quarterly revenue",
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S05",
+    "quote": "Revenue jumped 37% to $42.2 billion at Amazon Web Services, which generates about a fifth of the company’s revenue and most of its operating profit.",
+    "match": "exact",
+    "page_text": "Revenue jumped 37% to $42.2 billion at Amazon Web Services, which generates about a fifth of the company’s revenue and most of its operating profit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth?srnd=homepage-middle-east#:~:text=Revenue%20jumped%2037%25%20to%20%2442.2,most%20of%20its%20operating%20profit.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth?srnd=homepage-middle-east"
+   },
+   {
+    "source": "S05",
+    "quote": "It marked the fifth consecutive period of rising sales at AWS and the fastest pace of growth since the fourth quarter of 2021.",
+    "match": "exact",
+    "page_text": "It marked the fifth consecutive period of rising sales at AWS and the fastest pace of growth since the fourth quarter of 2021.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth?srnd=homepage-middle-east#:~:text=It%20marked%20the%20fifth%20consecutive,the%20fourth%20quarter%20of%202021.",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth?srnd=homepage-middle-east"
+   },
+   {
+    "source": "S405",
+    "quote": "In the second quarter of 2026, AWS generated cloud computing and hosting net sales of approximately 42.23 billion U.S. dollars.",
+    "match": "exact",
+    "page_text": "In the second quarter of 2026, AWS generated cloud computing and hosting net sales of approximately 42.23 billion U.S. dollars.",
+    "link": "https://www.statista.com/statistics/250520/forecast-of-amazon-web-services-revenue/#:~:text=In%20the%20second%20quarter%20of,approximately%2042.23%20billion%20U.S.%20dollars.",
+    "url": "https://www.statista.com/statistics/250520/forecast-of-amazon-web-services-revenue/"
+   }
+  ],
+  "id": "C25",
+  "receipts": 3,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Google Cloud revenue grew 82% year over year to about $24.8 billion in Q2 2026, up from $13.6 billion a year earlier.",
+  "value": 82,
+  "unit": "percent growth",
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S28",
+    "quote": "Google reported second-quarter cloud-computing revenue of $24.77 billion, up 82% year over year, driven by artificial intelligence workloads, handily beating estimates of $22.46 billion.",
+    "match": "exact",
+    "page_text": "Google reported second-quarter cloud-computing revenue of $24.77 billion, up 82% year over year, driven by artificial intelligence workloads, handily beating estimates of $22.46 billion.",
+    "link": "https://www.investors.com/news/technology/google-stock-ai-chip-sales-cloud-revenue-boost/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news#:~:text=Google%20reported%20second%2Dquarter%20cloud%2Dcomputing%20revenue,beating%20estimates%20of%20%2422.46%20billion.",
+    "url": "https://www.investors.com/news/technology/google-stock-ai-chip-sales-cloud-revenue-boost/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news"
+   },
+   {
+    "source": "S406",
+    "quote": "The Google parent company reported Google Cloud revenue of $24.8 billion for the quarter ended 30 June, an 82% year-on-year increase from $13.6 billion a year earlier.",
+    "match": "exact",
+    "page_text": "The Google parent company reported Google Cloud revenue of $24.8 billion for the quarter ended 30 June, an 82% year-on-year increase from $13.6 billion a year earlier.",
+    "link": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2=#:~:text=The%20Google%20parent%20company%20reported,%2413.6%20billion%20a%20year%20earlier.",
+    "url": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2="
+   },
+   {
+    "source": "S71",
+    "quote": "Google Cloud led major providers with 82% revenue growth in Q2 2026, predicting higher capex.",
+    "match": "exact",
+    "page_text": "Google Cloud led major providers with 82% revenue growth in Q2 2026, predicting higher capex.",
+    "link": "https://www.fool.com/research/data-center-revenue-ai-companies/?referring_guid=49300cb2-a3dc-42b9-9f6d-ccccec634fbf#:~:text=Google%20Cloud%20led%20major%20providers,Q2%202026%2C%20predicting%20higher%20capex.",
+    "url": "https://www.fool.com/research/data-center-revenue-ai-companies/?referring_guid=49300cb2-a3dc-42b9-9f6d-ccccec634fbf"
+   }
+  ],
+  "id": "C26",
+  "receipts": 3,
+  "independent": 3,
+  "status": "verified"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Google Cloud operating income more than tripled to $8.8 billion in Q2 2026, from $2.8 billion a year earlier.",
+  "value": 8.8,
+  "unit": "billion USD operating income",
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S406",
+    "quote": "The cloud division also posted a sharp improvement in profitability, with operating income more than tripling to $8.8 billion, up from $2.8 billion in the second quarter of 2025.",
+    "match": "exact",
+    "page_text": "The cloud division also posted a sharp improvement in profitability, with operating income more than tripling to $8.8 billion, up from $2.8 billion in the second quarter of 2025.",
+    "link": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2=#:~:text=The%20cloud%20division%20also%20posted,the%20second%20quarter%20of%202025.",
+    "url": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2="
+   }
+  ],
+  "id": "C27",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Alphabet attributes the Google Cloud acceleration to demand for AI infrastructure and enterprise AI solutions.",
+  "value": null,
+  "unit": null,
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S406",
+    "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions.",
+    "match": "exact",
+    "page_text": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions.",
+    "link": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2=#:~:text=Q2%20was%20an%20amazing%20quarter%2C,AI%20infrastructure%20and%20AI%20solutions.",
+    "url": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2="
+   },
+   {
+    "source": "S406",
+    "quote": "The company says growth in Google Cloud was led by increased adoption of enterprise AI solutions, AI infrastructure and its core cloud platform services.",
+    "match": "exact",
+    "page_text": "The company says growth in Google Cloud was led by increased adoption of enterprise AI solutions, AI infrastructure and its core cloud platform services.",
+    "link": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2=#:~:text=The%20company%20says%20growth%20in,its%20core%20cloud%20platform%20services.",
+    "url": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2="
+   }
+  ],
+  "id": "C28",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q3",
+  "claim": "In Q2 2026 Google for the first time counted third-party sales of its AI accelerator chips (TPUs) inside cloud revenue.",
+  "value": null,
+  "unit": null,
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S28",
+    "quote": "For the first time, Google included third-party sales of AI accelerator chips in cloud revenue.",
+    "match": "exact",
+    "page_text": "For the first time, Google included third-party sales of AI accelerator chips in cloud revenue.",
+    "link": "https://www.investors.com/news/technology/google-stock-ai-chip-sales-cloud-revenue-boost/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news#:~:text=For%20the%20first%20time%2C%20Google,accelerator%20chips%20in%20cloud%20revenue.",
+    "url": "https://www.investors.com/news/technology/google-stock-ai-chip-sales-cloud-revenue-boost/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news"
+   }
+  ],
+  "id": "C29",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Google Cloud made up about 21% of Alphabet's quarterly revenue in Q2 2026, up from about 14% a year earlier.",
+  "value": 21,
+  "unit": "percent of Alphabet revenue",
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S406",
+    "quote": "Google Cloud accounted for approximately 21% of Alphabet’s total quarterly revenue, up from around 14% a year earlier, highlighting the segment’s increasing contribution to the company’s overall business.",
+    "match": "exact",
+    "page_text": "Google Cloud accounted for approximately 21% of Alphabet’s total quarterly revenue, up from around 14% a year earlier, highlighting the segment’s increasing contribution to the company’s overall business.",
+    "link": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2=#:~:text=Google%20Cloud%20accounted%20for%20approximately,to%20the%20company%E2%80%99s%20overall%20business.",
+    "url": "https://phys.sabanciuniv.edu/en/education/graduate?live-blog-18409862-2026-07-23-by-admire-moyojohannesburg-23-jul-2026google-cloud-accounted-for-approximately-2="
+   }
+  ],
+  "id": "C30",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Google Cloud revenue grew 63% year over year in Q1 2026, an acceleration of 15 percentage points from the previous quarter.",
+  "value": 63,
+  "unit": "percent growth",
+  "date": "2026-Q1",
+  "evidence": [
+   {
+    "source": "S41",
+    "quote": "First-quarter cloud revenue for Alphabet surged 63% on the year, prompting about a 10% jump in its stock.",
+    "match": "exact",
+    "page_text": "First-quarter cloud revenue for Alphabet surged 63% on the year, prompting about a 10% jump in its stock.",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=First%2Dquarter%20cloud%20revenue%20for%20Alphabet,10%25%20jump%20in%20its%20stock.",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   },
+   {
+    "source": "S50",
+    "quote": "In the event, Alphabet beat even the most optimistic forecasts, as AI-powered search supercharged its core product and revenue growth at its cloud division accelerated a startling 15 percentage points from the previous quarter, to 63 per cent.",
+    "match": "exact",
+    "page_text": "In the event, Alphabet beat even the most optimistic forecasts, as AI-powered search supercharged its core product and revenue growth at its cloud division accelerated a startling 15 percentage points from the previous quarter, to 63 per cent.",
+    "link": "http://app003.ftchinese.com/interactive/264267/en#:~:text=In%20the%20event%2C%20Alphabet%20beat,quarter%2C%20to%2063%20per%20cent.",
+    "url": "http://app003.ftchinese.com/interactive/264267/en"
+   }
+  ],
+  "id": "C31",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Google's backlog nearly doubled quarter over quarter to $462 billion in Q1 2026, a 400% annual increase (BMO).",
+  "value": 462,
+  "unit": "billion USD backlog",
+  "date": "2026-Q1",
+  "evidence": [
+   {
+    "source": "S41",
+    "quote": "Google's backlog nearly doubled quarter-over-quarter with a 400% annual increase to $462B.",
+    "match": "exact",
+    "page_text": "Google's backlog nearly doubled quarter-over-quarter with a 400% annual increase to $462B.",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=Google%27s%20backlog%20nearly%20doubled%20quarter%2Dover%2Dquarter,400%25%20annual%20increase%20to%20%24462B.",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   }
+  ],
+  "id": "C32",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Jefferies put the hyperscalers' combined backlog at about $2 trillion after Q1 2026 earnings, alongside accelerating cloud growth.",
+  "value": 2000,
+  "unit": "billion USD backlog",
+  "date": "2026-Q1",
+  "evidence": [
+   {
+    "source": "S41",
+    "quote": "Cap-ex keeps climbing, but [return on investment] ROI is evident via ~$2 trillion backlog and accelerating cloud growth",
+    "match": "exact",
+    "page_text": "Cap-ex keeps climbing, but [return on investment] ROI is evident via ~$2 trillion backlog and accelerating cloud growth",
+    "link": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html#:~:text=Cap%2Dex%20keeps%20climbing%2C%20but%20%5Breturn,backlog%20and%20accelerating%20cloud%20growth",
+    "url": "https://www.cnbc.com/amp/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html"
+   }
+  ],
+  "id": "C33",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q3",
+  "claim": "Microsoft's and Amazon's cloud divisions also beat expectations in Q1 2026, and Alphabet, Amazon and Microsoft all improved operating margins.",
+  "value": null,
+  "unit": null,
+  "date": "2026-Q1",
+  "evidence": [
+   {
+    "source": "S50",
+    "quote": "The cloud divisions of Microsoft and Amazon also did better than expected, though they were put in the shade by Google.",
+    "match": "exact",
+    "page_text": "The cloud divisions of Microsoft and Amazon also did better than expected, though they were put in the shade by Google.",
+    "link": "http://app003.ftchinese.com/interactive/264267/en#:~:text=The%20cloud%20divisions%20of%20Microsoft,in%20the%20shade%20by%20Google.",
+    "url": "http://app003.ftchinese.com/interactive/264267/en"
+   },
+   {
+    "source": "S50",
+    "quote": "Alphabet, Amazon and Microsoft each registered an unexpectedly robust improvement in operating profit margins.",
+    "match": "exact",
+    "page_text": "Alphabet, Amazon and Microsoft each registered an unexpectedly robust improvement in operating profit margins.",
+    "link": "http://app003.ftchinese.com/interactive/264267/en#:~:text=Alphabet%2C%20Amazon%20and%20Microsoft%20each,improvement%20in%20operating%20profit%20margins.",
+    "url": "http://app003.ftchinese.com/interactive/264267/en"
+   }
+  ],
+  "id": "C34",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q4",
+  "claim": "Anthropic told investors it was profitable on an adjusted basis in Q3 2026, its second straight adjusted-profitable quarter; the adjusted measure strips out costs including stock-based compensation.",
+  "value": 2,
+  "unit": "consecutive quarters of adjusted operating profit",
+  "date": "2026-Q3",
+  "evidence": [
+   {
+    "source": "S76",
+    "quote": "The company told investors it was profitable for a second straight quarter on an adjusted basis, a measure that strips out certain costs.",
+    "match": "exact",
+    "page_text": "The company told investors it was profitable for a second straight quarter on an adjusted basis, a measure that strips out certain costs.",
+    "link": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html#:~:text=The%20company%20told%20investors%20it,that%20strips%20out%20certain%20costs.",
+    "url": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html"
+   },
+   {
+    "source": "S42",
+    "quote": "The company has told a small group of shareholders that its adjusted operating income will be positive for the second consecutive quarter, according to multiple people with knowledge of the matter. The measure strips out costs including stock-based compensation.",
+    "match": "exact",
+    "page_text": "The company has told a small group of shareholders that its adjusted operating income will be positive for the second consecutive quarter, according to multiple people with knowledge of the matter. The measure strips out costs including stock-based compensation.",
+    "link": "http://app003.ftchinese.com/interactive/294293/en#:~:text=The%20company%20has%20told%20a,out%20costs%20including%20stock%2Dbased%20compensation.",
+    "url": "http://app003.ftchinese.com/interactive/294293/en"
+   },
+   {
+    "source": "S38",
+    "quote": "The company also reported a profit for the quarter after certain adjustments.",
+    "match": "exact",
+    "page_text": "The company also reported a profit for the quarter after certain adjustments.",
+    "link": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047#:~:text=The%20company%20also%20reported%20a,the%20quarter%20after%20certain%20adjustments.",
+    "url": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047"
+   },
+   {
+    "source": "S69",
+    "quote": "Perhaps more critical for investors is the claim of adjusted profitability for the second consecutive quarter.",
+    "match": "exact",
+    "page_text": "Perhaps more critical for investors is the claim of adjusted profitability for the second consecutive quarter.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=Perhaps%20more%20critical%20for%20investors,for%20the%20second%20consecutive%20quarter.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C35",
+  "receipts": 4,
+  "independent": 4,
+  "status": "verified"
+ },
+ {
+  "sub": "Q4",
+  "claim": "Anthropic's first adjusted operating profit came in Q2 2026, on revenue of 11.5 billion dollars, up 14-fold year on year.",
+  "value": 11.5,
+  "unit": "billion USD quarterly revenue (Q2, adjusted-profitable)",
+  "date": "2026-Q2",
+  "evidence": [
+   {
+    "source": "S42",
+    "quote": "Anthropic recorded an adjusted operating profit in the second quarter, after revenues surged 14-fold from a year earlier to $11.5bn.",
+    "match": "exact",
+    "page_text": "Anthropic recorded an adjusted operating profit in the second quarter, after revenues surged 14-fold from a year earlier to $11.5bn.",
+    "link": "http://app003.ftchinese.com/interactive/294293/en#:~:text=Anthropic%20recorded%20an%20adjusted%20operating,a%20year%20earlier%20to%20%2411.5bn.",
+    "url": "http://app003.ftchinese.com/interactive/294293/en"
+   }
+  ],
+  "id": "C36",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q4",
+  "claim": "On the same adjusted basis, Anthropic had positive free cash flow and an 11 percent operating margin in Q3 2026.",
+  "value": 11,
+  "unit": "percent adjusted operating margin",
+  "date": "2026-Q3",
+  "evidence": [
+   {
+    "source": "S76",
+    "quote": "On the same basis, it had positive free cash flow, meaning it brought in more cash than it spent, and an operating margin of 11%, the share of revenue left after running costs.",
+    "match": "exact",
+    "page_text": "On the same basis, it had positive free cash flow, meaning it brought in more cash than it spent, and an operating margin of 11%, the share of revenue left after running costs.",
+    "link": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html#:~:text=On%20the%20same%20basis%2C%20it,revenue%20left%20after%20running%20costs.",
+    "url": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html"
+   }
+  ],
+  "id": "C37",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q4",
+  "claim": "Each dollar Anthropic spent on compute brought in 1.70 dollars of revenue in Q3 2026 (self-reported, per FT and Bloomberg reporting).",
+  "value": 1.7,
+  "unit": "USD revenue per 1 USD of compute spend",
+  "date": "2026-Q3",
+  "evidence": [
+   {
+    "source": "S76",
+    "quote": "Each dollar it spent on computing power brought in $1.70 of revenue in the quarter, but growth is slowing.",
+    "match": "exact",
+    "page_text": "Each dollar it spent on computing power brought in $1.70 of revenue in the quarter, but growth is slowing.",
+    "link": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html#:~:text=Each%20dollar%20it%20spent%20on,quarter%2C%20but%20growth%20is%20slowing.",
+    "url": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html"
+   },
+   {
+    "source": "S69",
+    "quote": "The company reports adjusted gross margins of approximately 85%, with a reported $1.70 in revenue generated for every $1 spent on compute, according to the Financial Times.",
+    "match": "exact",
+    "page_text": "The company reports adjusted gross margins of approximately 85%, with a reported $1.70 in revenue generated for every $1 spent on compute, according to the Financial Times.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=The%20company%20reports%20adjusted%20gross,according%20to%20the%20Financial%20Times.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C38",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q4",
+  "claim": "Anthropic's gross margins are reported above 80 percent (about 85 percent adjusted), but only before revenue shared with distribution partners such as Amazon and before model training costs.",
+  "value": 80,
+  "unit": "percent gross margin, lower bound (excl. partner revenue share and training)",
+  "date": "2026-Q3",
+  "evidence": [
+   {
+    "source": "S42",
+    "quote": "Anthropic’s gross margins are above 80 per cent before accounting for revenue shared with distribution partners, including Amazon, and the cost of training its models, according to two of the people.",
+    "match": "exact",
+    "page_text": "Anthropic’s gross margins are above 80 per cent before accounting for revenue shared with distribution partners, including Amazon, and the cost of training its models, according to two of the people.",
+    "link": "http://app003.ftchinese.com/interactive/294293/en#:~:text=Anthropic%E2%80%99s%20gross%20margins%20are%20above,to%20two%20of%20the%20people.",
+    "url": "http://app003.ftchinese.com/interactive/294293/en"
+   },
+   {
+    "source": "S69",
+    "quote": "The company reports adjusted gross margins of approximately 85%, with a reported $1.70 in revenue generated for every $1 spent on compute, according to the Financial Times.",
+    "match": "exact",
+    "page_text": "The company reports adjusted gross margins of approximately 85%, with a reported $1.70 in revenue generated for every $1 spent on compute, according to the Financial Times.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=The%20company%20reports%20adjusted%20gross,according%20to%20the%20Financial%20Times.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C39",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q4",
+  "claim": "On standard (GAAP) accounting Anthropic lost 42 billion dollars in 2025 on 4.6 billion dollars of revenue, per its draft IPO prospectus; most of it was 34 billion dollars of accounting charges linked to past fundraising.",
+  "value": 42,
+  "unit": "billion USD net loss (GAAP, full year)",
+  "date": "2025",
+  "evidence": [
+   {
+    "source": "S76",
+    "quote": "On standard accounting measures, Anthropic lost $42 billion (€37.5bn) in 2025 on revenue of $4.6 billion (€4.1bn), according to a draft prospectus reported last month, largely because of $34 billion (€30.4bn) in accounting charges linked to past fundraising.",
+    "match": "exact",
+    "page_text": "On standard accounting measures, Anthropic lost $42 billion (€37.5bn) in 2025 on revenue of $4.6 billion (€4.1bn), according to a draft prospectus reported last month, largely because of $34 billion (€30.4bn) in accounting charges linked to past fundraising.",
+    "link": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html#:~:text=On%20standard%20accounting%20measures%2C%20Anthropic,charges%20linked%20to%20past%20fundraising.",
+    "url": "https://au.finance.yahoo.com/news/anthropic-revenue-jumps-46-16-085753083.html"
+   },
+   {
+    "source": "S38",
+    "quote": "In its September IPO prospectus, Anthropic reported a loss of $42 billion in 2025 and warned of further spending to expand its AI infrastructure.",
+    "match": "exact",
+    "page_text": "In its September IPO prospectus, Anthropic reported a loss of $42 billion in 2025 and warned of further spending to expand its AI infrastructure.",
+    "link": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047#:~:text=In%20its%20September%20IPO%20prospectus%2C,to%20expand%20its%20AI%20infrastructure.",
+    "url": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047"
+   },
+   {
+    "source": "S69",
+    "quote": "Anthropic is currently attempting to justify a $2 trillion valuation target while reconciling a 2025 performance that saw a net loss of $42 billion on just $4.6 billion in revenue.",
+    "match": "exact",
+    "page_text": "Anthropic is currently attempting to justify a $2 trillion valuation target while reconciling a 2025 performance that saw a net loss of $42 billion on just $4.6 billion in revenue.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=Anthropic%20is%20currently%20attempting%20to,just%20%244.6%20billion%20in%20revenue.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C40",
+  "receipts": 3,
+  "independent": 3,
+  "status": "conflicting",
+  "note": "Two figures for 2025: $4.6 billion on standard accounting in the draft prospectus, and roughly $10 billion in CNBC's report. Neither source explains the gap; it is likely a different way of counting revenue."
+ },
+ {
+  "sub": "Q4",
+  "claim": "Excluding certain accounting adjustments, Anthropic's 2025 operating loss was more than 8 billion dollars (Reuters).",
+  "value": 8,
+  "unit": "billion USD operating loss, lower bound (adjusted, full year)",
+  "date": "2025",
+  "evidence": [
+   {
+    "source": "S38",
+    "quote": "However, the company also recorded an operating loss of more than $8 billion, excluding certain accounting adjustments, Reuters reported.",
+    "match": "exact",
+    "page_text": "However, the company also recorded an operating loss of more than $8 billion, excluding certain accounting adjustments, Reuters reported.",
+    "link": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047#:~:text=However%2C%20the%20company%20also%20recorded,certain%20accounting%20adjustments%2C%20Reuters%20reported.",
+    "url": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047"
+   }
+  ],
+  "id": "C41",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q4",
+  "claim": "Anthropic has committed to at least 518 billion dollars of cloud and compute spending over the next decade, a multi-year liability disclosed in its leaked prospectus.",
+  "value": 518,
+  "unit": "billion USD compute commitments over ten years",
+  "date": "2026-09",
+  "evidence": [
+   {
+    "source": "S38",
+    "quote": "The company has committed to spending at least $518 billion over the next decade on cloud services and infrastructure.",
+    "match": "exact",
+    "page_text": "The company has committed to spending at least $518 billion over the next decade on cloud services and infrastructure.",
+    "link": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047#:~:text=The%20company%20has%20committed%20to,on%20cloud%20services%20and%20infrastructure.",
+    "url": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047"
+   },
+   {
+    "source": "S69",
+    "quote": "The leaked prospectus, reported by Reuters in late September, highlights $518 billion in signed compute commitments.",
+    "match": "exact",
+    "page_text": "The leaked prospectus, reported by Reuters in late September, highlights $518 billion in signed compute commitments.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=The%20leaked%20prospectus%2C%20reported%20by,billion%20in%20signed%20compute%20commitments.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C42",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q4",
+  "claim": "Anthropic secured a 15 billion dollar revolving credit facility to remove compute cash-flow risk during the IPO quiet period.",
+  "value": 15,
+  "unit": "billion USD revolving credit facility",
+  "date": "2026-10",
+  "evidence": [
+   {
+    "source": "S69",
+    "quote": "To ensure this momentum remains uninterrupted during the sensitive period leading up to its public offering, Anthropic has secured a $15 billion revolving credit facility.",
+    "match": "exact",
+    "page_text": "To ensure this momentum remains uninterrupted during the sensitive period leading up to its public offering, Anthropic has secured a $15 billion revolving credit facility.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=To%20ensure%20this%20momentum%20remains,%2415%20billion%20revolving%20credit%20facility.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   },
+   {
+    "source": "S69",
+    "quote": "Bloomberg reported the primary purpose of this capital is to remove compute cash-flow risk during the IPO quiet period, ensuring that the company’s massive infrastructure commitments do not falter while it is restricted from raising equity.",
+    "match": "exact",
+    "page_text": "Bloomberg reported the primary purpose of this capital is to remove compute cash-flow risk during the IPO quiet period, ensuring that the company’s massive infrastructure commitments do not falter while it is restricted from raising equity.",
+    "link": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/#:~:text=Bloomberg%20reported%20the%20primary%20purpose,is%20restricted%20from%20raising%20equity.",
+    "url": "https://forkast.news/anthropics-16-8-billion-quarter-scaling-revenue-against-massive-liabilities/"
+   }
+  ],
+  "id": "C43",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q4",
+  "claim": "Some investors now discuss an Anthropic valuation of about 1.5 trillion dollars, down from about 2 trillion, weighing revenue growth against slowing expansion and rising costs.",
+  "value": 1.5,
+  "unit": "trillion USD valuation discussed by investors",
+  "date": "2026-10-14",
+  "evidence": [
+   {
+    "source": "S38",
+    "quote": "Some are now discussing a valuation of around $1.5 trillion, down from the earlier expectation of about $2 trillion. The change comes as investors weigh the AI company’s strong revenue growth against its slowing pace of expansion and rising costs.",
+    "match": "exact",
+    "page_text": "Some are now discussing a valuation of around $1.5 trillion, down from the earlier expectation of about $2 trillion. The change comes as investors weigh the AI company’s strong revenue growth against its slowing pace of expansion and rising costs.",
+    "link": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047#:~:text=Some%20are%20now%20discussing%20a,of%20expansion%20and%20rising%20costs.",
+    "url": "https://markets.businessinsider.com/news/stocks/anthropic-ipo-why-investors-are-rethinking-its-2-trillion-valuation-1036634047"
+   }
+  ],
+  "id": "C44",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q4",
+  "claim": "OpenAI reached an estimated 14 billion dollars of revenue in 2025 but still faces massive operational overhead; its 40 billion dollar SoftBank investment came with strict profitability mandates (TokenRing analysis, January 2026).",
+  "value": 14,
+  "unit": "billion USD revenue, full year (estimate)",
+  "date": "2025",
+  "evidence": [
+   {
+    "source": "S08",
+    "quote": "OpenAI, despite reaching an estimated $14 billion in revenue for 2025, continues to face massive operational overhead.",
+    "match": "exact",
+    "page_text": "OpenAI, despite reaching an estimated $14 billion in revenue for 2025, continues to face massive operational overhead.",
+    "link": "https://investor.wedbush.com/wedbush/article/tokenring-2026-1-5-the-2026-unit-economics-reckoning-proving-ais-profitability#:~:text=OpenAI%2C%20despite%20reaching%20an%20estimated,to%20face%20massive%20operational%20overhead.",
+    "url": "https://investor.wedbush.com/wedbush/article/tokenring-2026-1-5-the-2026-unit-economics-reckoning-proving-ais-profitability"
+   },
+   {
+    "source": "S08",
+    "quote": "The company’s recent $40 billion investment from SoftBank (OTC:SFTBY) in late 2025 was seen as a bridge to a potential $100 billion-plus IPO, but it came with strict mandates for profitability.",
+    "match": "exact",
+    "page_text": "The company’s recent $40 billion investment from SoftBank (OTC:SFTBY) in late 2025 was seen as a bridge to a potential $100 billion-plus IPO, but it came with strict mandates for profitability.",
+    "link": "https://investor.wedbush.com/wedbush/article/tokenring-2026-1-5-the-2026-unit-economics-reckoning-proving-ais-profitability#:~:text=The%20company%E2%80%99s%20recent%20%2440%20billion,with%20strict%20mandates%20for%20profitability.",
+    "url": "https://investor.wedbush.com/wedbush/article/tokenring-2026-1-5-the-2026-unit-economics-reckoning-proving-ais-profitability"
+   }
+  ],
+  "id": "C45",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q4",
+  "claim": "AI-native companies run gross margins of 50 to 65 percent versus 75 to 85 percent for traditional SaaS, and compute is the largest cost at leading AI companies at 57 to 70 percent of total spend.",
+  "value": 65,
+  "unit": "percent gross margin, upper bound for AI-native companies",
+  "date": "2026-09",
+  "evidence": [
+   {
+    "source": "S43",
+    "quote": "Traditional SaaS organizations have historically operated with gross margins of 75% to 85%, while AI-native companies are operating with margins of 50% to 65%, with some early-stage businesses running significantly lower as infrastructure and inference costs scale alongside usage.",
+    "match": "exact",
+    "page_text": "Traditional SaaS organizations have historically operated with gross margins of 75% to 85%, while AI-native companies are operating with margins of 50% to 65%, with some early-stage businesses running significantly lower as infrastructure and inference costs scale alongside usage.",
+    "link": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/09/14/how-capital-efficiency-will-decide-who-wins-the-ai-race/#:~:text=Traditional%20SaaS%20organizations%20have%20historically,inference%20costs%20scale%20alongside%20usage.",
+    "url": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/09/14/how-capital-efficiency-will-decide-who-wins-the-ai-race/"
+   },
+   {
+    "source": "S43",
+    "quote": "Visual Capitalist recently reported that compute is now the largest cost center at leading AI companies, representing 57% to 70% of total spend, even more than talent costs.",
+    "match": "exact",
+    "page_text": "Visual Capitalist recently reported that compute is now the largest cost center at leading AI companies, representing 57% to 70% of total spend, even more than talent costs.",
+    "link": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/09/14/how-capital-efficiency-will-decide-who-wins-the-ai-race/#:~:text=Visual%20Capitalist%20recently%20reported%20that,even%20more%20than%20talent%20costs.",
+    "url": "https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2026/09/14/how-capital-efficiency-will-decide-who-wins-the-ai-race/"
+   }
+  ],
+  "id": "C46",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "Gartner forecasts no more than 3.6 trillion dollars of AI revenue through 2030 against about 7 trillion dollars of AI infrastructure spending, while 8.5 trillion dollars of revenue would be needed to earn a 12% return.",
+  "value": 3.6,
+  "unit": "trillion USD AI revenue forecast through 2030 (vs 8.5 trillion needed, about 7 trillion spent)",
+  "date": "2026-10",
+  "evidence": [
+   {
+    "source": "S80",
+    "quote": "AI infrastructure spending needs $8.5tn in revenue through 2030 to earn a 12% return, Gartner calculates, but it forecasts no more than $3.6tn.",
+    "match": "exact",
+    "page_text": "AI infrastructure spending needs $8.5tn in revenue through 2030 to earn a 12% return, Gartner calculates, but it forecasts no more than $3.6tn.",
+    "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds#:~:text=AI%20infrastructure%20spending%20needs%20%248.5tn,forecasts%20no%20more%20than%20%243.6tn.",
+    "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds"
+   },
+   {
+    "source": "S78",
+    "quote": "While AI providers are projected to spend $7 trillion on infrastructure through 2030, research from Gartner forecasts they will generate no more than $3.6 trillion in related revenue over that same period.",
+    "match": "exact",
+    "page_text": "While AI providers are projected to spend $7 trillion on infrastructure through 2030, research from Gartner forecasts they will generate no more than $3.6 trillion in related revenue over that same period.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=While%20AI%20providers%20are%20projected,revenue%20over%20that%20same%20period.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   },
+   {
+    "source": "S80",
+    "quote": "Our research indicates that enterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures during this period",
+    "match": "exact",
+    "page_text": "Our research indicates that enterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures during this period",
+    "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds#:~:text=Our%20research%20indicates%20that%20enterprise,capital%20expenditures%20during%20this%20period",
+    "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds"
+   }
+  ],
+  "id": "C47",
+  "receipts": 3,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q5",
+  "claim": "Gartner says more than 3.5 trillion dollars of AI infrastructure spending faces write-down risk by the end of 2030, and more than 4 trillion dollars through 2032 if the current spending pace continues.",
+  "value": 3.5,
+  "unit": "trillion USD at write-down risk by end of 2030 (over 4 trillion through 2032)",
+  "date": "2026-10-14",
+  "evidence": [
+   {
+    "source": "S80",
+    "quote": "More than $3.5tn of AI infrastructure spending faces possible impairment by the end of 2030, Gartner said on 14 October.",
+    "match": "exact",
+    "page_text": "More than $3.5tn of AI infrastructure spending faces possible impairment by the end of 2030, Gartner said on 14 October.",
+    "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds#:~:text=More%20than%20%243.5tn%20of%20AI,Gartner%20said%20on%2014%20October.",
+    "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds"
+   },
+   {
+    "source": "S80",
+    "quote": "If spending stays on its current path, more than $4tn in asset value could face write-down risk through 2032.",
+    "match": "exact",
+    "page_text": "If spending stays on its current path, more than $4tn in asset value could face write-down risk through 2032.",
+    "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds#:~:text=If%20spending%20stays%20on%20its,face%20write%2Ddown%20risk%20through%202032.",
+    "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds"
+   },
+   {
+    "source": "S78",
+    "quote": "More than $4 trillion in AI infrastructure spending could be at risk of write-downs by the end of 2032 if companies maintain their current investment pace.",
+    "match": "exact",
+    "page_text": "More than $4 trillion in AI infrastructure spending could be at risk of write-downs by the end of 2032 if companies maintain their current investment pace.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=More%20than%20%244%20trillion%20in,maintain%20their%20current%20investment%20pace.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   }
+  ],
+  "id": "C48",
+  "receipts": 3,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q5",
+  "claim": "Gartner predicts that more than 80% of neoclouds (specialised AI cloud providers) will stop operating independently by 2030.",
+  "value": 80,
+  "unit": "percent of neoclouds expected to lose independence by 2030",
+  "date": "2026-10",
+  "evidence": [
+   {
+    "source": "S78",
+    "quote": "Gartner also predicts that more than 80% of specialized AI cloud providers, known as neoclouds, will cease operating independently by 2030.",
+    "match": "exact",
+    "page_text": "Gartner also predicts that more than 80% of specialized AI cloud providers, known as neoclouds, will cease operating independently by 2030.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=Gartner%20also%20predicts%20that%20more,cease%20operating%20independently%20by%202030.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   },
+   {
+    "source": "S80",
+    "quote": "The research firm also predicts that more than 80% of neoclouds will stop operating independently by 2030.",
+    "match": "exact",
+    "page_text": "The research firm also predicts that more than 80% of neoclouds will stop operating independently by 2030.",
+    "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds#:~:text=The%20research%20firm%20also%20predicts,stop%20operating%20independently%20by%202030.",
+    "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds"
+   }
+  ],
+  "id": "C49",
+  "receipts": 2,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q5",
+  "claim": "Bain & Company estimates the AI industry needs 6 trillion dollars in annual revenue by 2031.",
+  "value": 6,
+  "unit": "trillion USD annual revenue needed by 2031",
+  "date": "2026",
+  "evidence": [
+   {
+    "source": "S80",
+    "quote": "Gartner’s numbers follow a Bain & Company estimate that the AI industry needs $6tn in annual revenue by 2031.",
+    "match": "exact",
+    "page_text": "Gartner’s numbers follow a Bain & Company estimate that the AI industry needs $6tn in annual revenue by 2031.",
+    "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds#:~:text=Gartner%E2%80%99s%20numbers%20follow%20a%20Bain,in%20annual%20revenue%20by%202031.",
+    "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds"
+   }
+  ],
+  "id": "C50",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "About a third of the capex being spent on AI now comes from debt, according to Axios.",
+  "value": 33,
+  "unit": "percent of AI capex funded by debt",
+  "date": "2026-10",
+  "evidence": [
+   {
+    "source": "S78",
+    "quote": "But today, a third of the capex being spent on AI is coming from debt, and capital markets are showing signs of severe fatigue.",
+    "match": "exact",
+    "page_text": "But today, a third of the capex being spent on AI is coming from debt, and capital markets are showing signs of severe fatigue.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=But%20today%2C%20a%20third%20of,showing%20signs%20of%20severe%20fatigue.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   }
+  ],
+  "id": "C51",
+  "receipts": 1,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "Global AI-related debt issuance fell to 23 billion dollars in September 2026 from 113 billion dollars in June (Financial Times), and banks such as JPMorgan are tightening credit.",
+  "value": 23,
+  "unit": "billion USD AI-related debt issuance in September 2026 (vs 113 billion in June)",
+  "date": "2026-09",
+  "evidence": [
+   {
+    "source": "S78",
+    "quote": "Global AI-related debt issuance plunged to $23 billion in September 2026, down sharply from $113 billion in June, per the Financial Times.",
+    "match": "exact",
+    "page_text": "Global AI-related debt issuance plunged to $23 billion in September 2026, down sharply from $113 billion in June, per the Financial Times.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=Global%20AI%2Drelated%20debt%20issuance%20plunged,June%2C%20per%20the%20Financial%20Times.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   },
+   {
+    "source": "S78",
+    "quote": "Banks are actively pulling back to avoid concentration risk, with JPMorgan CEO Jamie Dimon confirming his bank is tightening up on credit.",
+    "match": "exact",
+    "page_text": "Banks are actively pulling back to avoid concentration risk, with JPMorgan CEO Jamie Dimon confirming his bank is tightening up on credit.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=Banks%20are%20actively%20pulling%20back,is%20tightening%20up%20on%20credit.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   }
+  ],
+  "id": "C52",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "Credit stress has hit AI infrastructure: CoreWeave's bond yields rose above 15% and its stock fell 15.5% in a sell-off over its AI debt, and about 18 billion dollars of bank loans for an Oracle data center campus slid into stressed territory.",
+  "value": 15,
+  "unit": "percent CoreWeave bond yield (stock down 15.5%)",
+  "date": "2026-10",
+  "evidence": [
+   {
+    "source": "S78",
+    "quote": "Yields pushed above 15% and its stock tumbled 15.5% before rebounding after Nvidia CEO Jensen Huang spoke up on the company's behalf.",
+    "match": "exact",
+    "page_text": "Yields pushed above 15% and its stock tumbled 15.5% before rebounding after Nvidia CEO Jensen Huang spoke up on the company's behalf.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=Yields%20pushed%20above%2015%25%20and,up%20on%20the%20company%27s%20behalf.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   },
+   {
+    "source": "S80",
+    "quote": "CoreWeave’s shares and bonds fell steeply this week over its AI debt.",
+    "match": "exact",
+    "page_text": "CoreWeave’s shares and bonds fell steeply this week over its AI debt.",
+    "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds#:~:text=CoreWeave%E2%80%99s%20shares%20and%20bonds%20fell,week%20over%20its%20AI%20debt.",
+    "url": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds"
+   },
+   {
+    "source": "S78",
+    "quote": "Approximately $18 billion in bank loans for an Oracle data center campus recently slid into stressed territory, while Nvidia-backed AI cloud provider Firmus shelved an IPO that sought a valuation north of $30 billion.",
+    "match": "exact",
+    "page_text": "Approximately $18 billion in bank loans for an Oracle data center campus recently slid into stressed territory, while Nvidia-backed AI cloud provider Firmus shelved an IPO that sought a valuation north of $30 billion.",
+    "link": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html#:~:text=Approximately%20%2418%20billion%20in%20bank,valuation%20north%20of%20%2430%20billion.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/banks-pulling-back-ais-massive-090010718.html"
+   }
+  ],
+  "id": "C53",
+  "receipts": 3,
+  "independent": 2,
+  "status": "verified"
+ },
+ {
+  "sub": "Q5",
+  "claim": "AI critic Ed Zitron argues the spending does not add up: Microsoft's AI revenue for fiscal 2026 was 34.33 billion dollars, 24.1 billion of it from OpenAI, against 261 billion dollars of capex since 2022.",
+  "value": 34.33,
+  "unit": "billion USD Microsoft AI revenue FY2026 (vs 261 billion capex since 2022)",
+  "date": "2026-09",
+  "evidence": [
+   {
+    "source": "S10",
+    "quote": "Microsoft's AI revenue for fiscal year 2026 was $34.33 billion. Of that, OpenAI represented $24.1 billion.",
+    "match": "exact",
+    "page_text": "Microsoft's AI revenue for fiscal year 2026 was $34.33 billion. Of that, OpenAI represented $24.1 billion.",
+    "link": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news#:~:text=Microsoft%27s%20AI%20revenue%20for%20fiscal,that%2C%20OpenAI%20represented%20%2424.1%20billion.",
+    "url": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news"
+   },
+   {
+    "source": "S10",
+    "quote": "Even with OpenAI's money, that's pretty pathetic, considering they've spent $261 billion in capex since 2022.",
+    "match": "exact",
+    "page_text": "Even with OpenAI's money, that's pretty pathetic, considering they've spent $261 billion in capex since 2022.",
+    "link": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news#:~:text=Even%20with%20OpenAI%27s%20money%2C%20that%27s,billion%20in%20capex%20since%202022.",
+    "url": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news"
+   }
+  ],
+  "id": "C54",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "AI-related stocks have added about 27 trillion dollars in market value since late 2022, and the two sectors most tied to AI now make up roughly half of the S&P 500 (VettaFi's Todd Rosenbluth).",
+  "value": 27,
+  "unit": "trillion USD market value added by AI-related stocks since late 2022",
+  "date": "2026-09",
+  "evidence": [
+   {
+    "source": "S10",
+    "quote": "Since late 2022, AI-related stocks—including everything from chipmakers to data centers — have added an astonishing $27 trillion in market value, helping push the overall stock market to new highs.",
+    "match": "exact",
+    "page_text": "Since late 2022, AI-related stocks—including everything from chipmakers to data centers — have added an astonishing $27 trillion in market value, helping push the overall stock market to new highs.",
+    "link": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news#:~:text=Since%20late%202022%2C%20AI%2Drelated%20stocks%E2%80%94including,stock%20market%20to%20new%20highs.",
+    "url": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news"
+   },
+   {
+    "source": "S10",
+    "quote": "VettaFi's head of research, Todd Rosenbluth, notes that information technology and communication services stocks, two sectors heavily tied to the AI boom, now make up roughly half of the S&P 500.",
+    "match": "exact",
+    "page_text": "VettaFi's head of research, Todd Rosenbluth, notes that information technology and communication services stocks, two sectors heavily tied to the AI boom, now make up roughly half of the S&P 500.",
+    "link": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news#:~:text=VettaFi%27s%20head%20of%20research%2C%20Todd,half%20of%20the%20S%26P%20500.",
+    "url": "https://www.investors.com/news/technology/ai-bubble-ed-zitron-money-will-run-out-bear-case/?src=A00619&refcode=aflMarketWatch&mod=mw_quote_news"
+   }
+  ],
+  "id": "C55",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "The 2026 Wharton and GBK Collective study finds positive AI returns are near-universal but strong ones are not: 35% of leaders tracking a growth measure report strongly positive ROI versus 13% of those tracking efficiency alone.",
+  "value": 35,
+  "unit": "percent reporting strongly positive ROI among firms tracking growth (13% for efficiency-only)",
+  "date": "2026-10-13",
+  "evidence": [
+   {
+    "source": "S01",
+    "quote": "While positive returns are near-universal, though, substantial ones are not.",
+    "match": "exact",
+    "page_text": "While positive returns are near-universal, though, substantial ones are not.",
+    "link": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report/?_bhlid=57697b2b1a33ee88023cdf01fe90ae550f4f2080#:~:text=While%20positive%20returns%20are%20near%2Duniversal%2C,though%2C%20substantial%20ones%20are%20not.",
+    "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report/?_bhlid=57697b2b1a33ee88023cdf01fe90ae550f4f2080"
+   },
+   {
+    "source": "S01",
+    "quote": "35% of enterprise leaders tracking at least one growth measure report strongly positive ROI, against 13% of those tracking efficiency alone.",
+    "match": "exact",
+    "page_text": "35% of enterprise leaders tracking at least one growth measure report strongly positive ROI, against 13% of those tracking efficiency alone.",
+    "link": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report/?_bhlid=57697b2b1a33ee88023cdf01fe90ae550f4f2080#:~:text=35%25%20of%20enterprise%20leaders%20tracking,of%20those%20tracking%20efficiency%20alone.",
+    "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report/?_bhlid=57697b2b1a33ee88023cdf01fe90ae550f4f2080"
+   }
+  ],
+  "id": "C56",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "BCG's 2026 Applied AI Index (over 1,300 senior leaders) finds 50% of companies now generate value from AI: 7.5% are most AI-mature and 41% are scaling.",
+  "value": 50,
+  "unit": "percent of companies generating value from AI",
+  "date": "2026-10",
+  "evidence": [
+   {
+    "source": "S45",
+    "quote": "A survey of more than 1,300 CXOs and senior leaders across 20 industries found that 50% of companies now generate value from AI and are moving from experimentation to production deployment, according to BCG’s 2026 Applied AI Index.",
+    "match": "exact",
+    "page_text": "A survey of more than 1,300 CXOs and senior leaders across 20 industries found that 50% of companies now generate value from AI and are moving from experimentation to production deployment, according to BCG’s 2026 Applied AI Index.",
+    "link": "https://www.zdnet.com/innovation/ai-spending-roi-bcg-2026-applied-ai-index/#:~:text=A%20survey%20of%20more%20than,BCG%E2%80%99s%202026%20Applied%20AI%20Index.",
+    "url": "https://www.zdnet.com/innovation/ai-spending-roi-bcg-2026-applied-ai-index/"
+   },
+   {
+    "source": "S45",
+    "quote": "BCG found that 7.5% of companies are “future-built” (most AI-mature), and 41% are scaling AI deployments and finding value from AI.",
+    "match": "exact",
+    "page_text": "BCG found that 7.5% of companies are “future-built” (most AI-mature), and 41% are scaling AI deployments and finding value from AI.",
+    "link": "https://www.zdnet.com/innovation/ai-spending-roi-bcg-2026-applied-ai-index/#:~:text=BCG%20found%20that%207.5%25%20of,and%20finding%20value%20from%20AI.",
+    "url": "https://www.zdnet.com/innovation/ai-spending-roi-bcg-2026-applied-ai-index/"
+   }
+  ],
+  "id": "C57",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "sub": "Q5",
+  "claim": "Gallagher's 2026 survey of over 1,200 organisations found 82% report positive impacts from AI, but they expect an average of 28 months to realise value from AI initiatives.",
+  "value": 82,
+  "unit": "percent of organisations reporting positive AI impact (28 months average to value)",
+  "date": "2026-02",
+  "evidence": [
+   {
+    "source": "S100",
+    "quote": "Most organisations (82%) reported positive impacts from AI, while 83% expect the technology to drive future revenue growth.",
+    "match": "exact",
+    "page_text": "Most organisations (82%) reported positive impacts from AI, while 83% expect the technology to drive future revenue growth.",
+    "link": "https://hrme.economictimes.indiatimes.com/news/industry/ai-adoption-rises-to-63-amid-widening-skills-gaps-and-recruitment-challenges-survey/128748021#:~:text=Most%20organisations%20%2882%25%29%20reported%20positive,to%20drive%20future%20revenue%20growth.",
+    "url": "https://hrme.economictimes.indiatimes.com/news/industry/ai-adoption-rises-to-63-amid-widening-skills-gaps-and-recruitment-challenges-survey/128748021"
+   },
+   {
+    "source": "S100",
+    "quote": "The findings also show that organisations are taking a measured approach to returns, with 63% actively tracking return on investment and estimating it will take an average of 28 months to realise value from AI initiatives.",
+    "match": "exact",
+    "page_text": "The findings also show that organisations are taking a measured approach to returns, with 63% actively tracking return on investment and estimating it will take an average of 28 months to realise value from AI initiatives.",
+    "link": "https://hrme.economictimes.indiatimes.com/news/industry/ai-adoption-rises-to-63-amid-widening-skills-gaps-and-recruitment-challenges-survey/128748021#:~:text=The%20findings%20also%20show%20that,realise%20value%20from%20AI%20initiatives.",
+    "url": "https://hrme.economictimes.indiatimes.com/news/industry/ai-adoption-rises-to-63-amid-widening-skills-gaps-and-recruitment-challenges-survey/128748021"
+   }
+  ],
+  "id": "C58",
+  "receipts": 2,
+  "independent": 1,
+  "status": "single source"
+ },
+ {
+  "id": "C59",
+  "sub": "Q4",
+  "claim": "CNBC reported that Anthropic generated roughly 10 billion dollars of revenue in all of 2025.",
+  "value": 10,
+  "unit": "billion USD",
+  "date": "2025",
+  "evidence": [
+   {
+    "source": "S48",
+    "quote": "In May, Anthropic said its run rate topped $47 billion, compared to the roughly $10 billion in revenue the company generated for all of 2025.",
+    "match": "exact",
+    "page_text": "In May, Anthropic said its run rate topped $47 billion, compared to the roughly $10 billion in revenue the company generated for all of 2025.",
+    "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html#:~:text=In%20May%2C%20Anthropic%20said%20its,generated%20for%20all%20of%202025.",
+    "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html"
+   }
+  ],
+  "status": "conflicting",
+  "note": "Two figures for 2025: $4.6 billion on standard accounting in the draft prospectus, and roughly $10 billion in CNBC's report. Neither source explains the gap; it is likely a different way of counting revenue.",
+  "receipts": 1,
+  "independent": 1
+ }
+]

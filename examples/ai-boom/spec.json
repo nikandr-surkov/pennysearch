@@ -1,0 +1,52 @@
+{
+  "title": "Is the AI boom making money yet?",
+  "question": "How does AI spending compare with AI revenue in 2026, and is anyone profitable?",
+  "mode": "deep",
+  "date": "2026-10-19",
+  "answer": "Not yet overall, but the revenue is arriving faster than ever. The biggest US tech firms plan to spend up to **$725 billion** on AI data centers in 2026 [C1]. Anthropic's revenue run rate is approaching **$110 billion** [C19] and OpenAI's was about **$50 billion** in September [C23]. Anthropic now reports an adjusted profit [C35], yet Gartner expects at most $3.6 trillion of AI revenue through 2030 against about $7 trillion of spending [C47].",
+  "takeaways": [
+    "**Spending:** up to $725 billion of capex planned for 2026 by the biggest US tech firms [C1, C2], and analysts expect more than $1 trillion in 2027 [C12].",
+    "**The fastest revenue ramp yet:** Anthropic went from a $9 billion run rate at the end of 2025 to $65 billion in July [C17], and to almost $110 billion by October [C19].",
+    "**OpenAI** was at about $50 billion a year at the end of September [C23] and aims for $70 billion or more by year-end [C24].",
+    "**Cloud is where AI pays first:** Google Cloud grew 82% to $24.8 billion in the second quarter [C26] and AWS 37% to $42.2 billion [C25].",
+    "**Profit comes with an asterisk:** Anthropic reports two adjusted-profit quarters [C35], but on standard accounting it lost $42 billion in 2025 [C40].",
+    "**The bear case:** Gartner puts more than $3.5 trillion of AI infrastructure at risk of write-downs by 2030 [C48], and about a third of AI capex now comes from debt [C51].",
+    "**For the companies buying AI,** half now get value from it (BCG) [C57], but they expect 28 months on average to see it (Gallagher) [C58]."
+  ],
+  "numbers": [
+    {"label": "Big Tech AI capex plans, 2026", "value": "$725", "unit": "B", "note": "biggest US tech firms", "claims": ["C1"]},
+    {"label": "Anthropic run rate, Oct 2026", "value": "~$110", "unit": "B", "note": "per year, WSJ", "claims": ["C19"]},
+    {"label": "OpenAI run rate, Sep 2026", "value": "~$50", "unit": "B", "note": "per year, shared with investors", "claims": ["C23"]},
+    {"label": "AI revenue vs spend to 2030", "value": "$3.6T", "unit": "vs $7T", "note": "Gartner forecast", "claims": ["C47"]}
+  ],
+  "charts": [
+    {"type": "bar", "title": "Anthropic's annualized revenue run rate", "subtitle": "billion USD per year", "unit": "B",
+     "labels": ["End 2025", "May 2026", "Jul 2026", "Oct 2026"], "values": [9, 47, 65, 110], "claims": ["C17", "C16", "C19"],
+     "note": "Run rates as reported by the company and press; Oct is approximate"},
+    {"type": "bar", "title": "Anthropic's quarterly revenue, 2026", "subtitle": "billion USD, self-reported", "unit": "B",
+     "labels": ["Q1", "Q2", "Q3"], "values": [4.7, 11.6, 16.8], "claims": ["C15", "C14", "C13"], "note": "Unaudited figures shared with investors"},
+    {"type": "hbar", "title": "2026 capex plans, latest guidance", "subtitle": "billion USD (midpoint of ranges)", "unit": "B",
+     "labels": ["Amazon (Jul)", "Microsoft (Apr)", "Alphabet (Apr)", "Meta (Jul)"], "values": [220, 190, 185, 137.5], "claims": ["C8", "C3", "C5", "C10"],
+     "note": "Dates differ; Alphabet raised again in July without a new figure in our sources"},
+    {"type": "hbar", "title": "AI through 2030, Gartner", "subtitle": "trillion USD", "unit": "T",
+     "labels": ["Infrastructure spending", "Revenue needed for a 12% return", "Forecast AI revenue"], "values": [7, 8.5, 3.6], "highlight": 2,
+     "claims": ["C47"], "note": "Gartner forecast, Oct 2026"}
+  ],
+  "sections": [
+    {"heading": "Where the money goes", "body": "Spending plans kept rising all year. In April the biggest US tech firms planned up to $725 billion of 2026 capex [C1]. After the July calls, the four largest cloud providers guided $720-745 billion combined [C2].\n\n- Microsoft gave a first 2026 estimate of $190 billion [C3]. Its lower-looking July figure is a lease-accounting change, not less building [C4].\n- Amazon raised its 2026 cash capex to about $220 billion, mostly because of memory prices [C8].\n- Alphabet raised to $180-190 billion in April [C5] and again in July [C6].\n- Meta guides $130-145 billion [C10], about double the $72 billion it spent in 2025 [C9].\n\nThe first quarter alone set a record of $130 billion [C11], and analysts expect more than $1 trillion in 2027 [C12]."},
+    {"heading": "Where the money comes from", "body": "The labs' revenue is growing faster than any software business before them, but most numbers are self-reported or come from people familiar with them.\n\n- Anthropic: $4.7 billion in the first quarter, $11.6 billion in the second and $16.8 billion in the third [C15, C14, C13]. The run rate went from $9 billion to $65 billion between December and July [C17], with more than $100 billion expected this year [C18].\n- OpenAI: more than $20 billion a year at the end of 2025 [C22], over $40 billion in August [C21] and about $50 billion in September [C23].\n\nThe two labs may not measure run rate the same way [C16]. One reported OpenAI figure near $70 billion used Anthropic's method for sales through cloud providers [C24], so the numbers are not directly comparable."},
+    {"heading": "Cloud: the first place AI pays", "body": "The clearest profits so far are at the cloud providers that rent out the chips. Google Cloud's operating income more than tripled to $8.8 billion in the second quarter [C27], and the unit is now about 21% of Alphabet's revenue [C30]. AWS had its fastest growth since 2021 [C25]. Order books point the same way: Google's backlog reached $462 billion [C32], and Jefferies puts the cloud providers' combined backlog near $2 trillion [C33]."},
+    {"heading": "Profit, with an asterisk", "body": "Anthropic says it was profitable on an adjusted basis for a second straight quarter [C35], with an 11% adjusted operating margin and positive free cash flow in the third quarter [C37]. Each dollar it spends on compute brings in $1.70 of revenue [C38].\n\nThe adjustments matter. They strip out stock-based compensation [C35]. The reported gross margins come before revenue shared with partners such as Amazon and before training costs [C39]. On standard accounting the company lost $42 billion in 2025 [C40], and it has committed to at least $518 billion of compute spending over the next decade [C42]. Across the industry, AI-native companies run gross margins of 50-65%, against 75-85% for classic software [C46]."},
+    {"heading": "The bear case", "body": "Gartner's math is the starkest: about $7 trillion of AI infrastructure spending through 2030 against at most $3.6 trillion of AI revenue [C47], with more than $3.5 trillion at risk of write-downs [C48]. Bain estimates the industry needs $6 trillion a year in revenue by 2031 [C50].\n\nThe financing is getting tighter too. About a third of AI capex now comes from debt [C51]. AI-related debt issuance fell from $113 billion in June to $23 billion in September [C52], and CoreWeave's bond yields rose above 15% [C53]. The critic Ed Zitron points to Microsoft: $34.33 billion of AI revenue in fiscal 2026, $24.1 billion of it from OpenAI, against $261 billion of capex since 2022 [C54]."},
+    {"heading": "Inside the companies that buy AI", "body": "For the companies using it, the picture is positive but slow. Half now generate value from AI [C57], and 82% report positive impacts, but they expect an average of 28 months to realise the value [C58]. Strongly positive returns are concentrated among leaders who measure growth, not only efficiency [C56]."}
+  ],
+  "disagreements": [
+    {"topic": "How much did Anthropic earn in 2025?", "body": "The draft IPO prospectus shows $4.6 billion of revenue on standard accounting [C40]. CNBC reported roughly $10 billion for the year [C59]. Neither source explains the gap; it is likely a different way of counting revenue.", "claims": ["C40", "C59"]}
+  ],
+  "caveats": [
+    "Most of the labs' revenue and profit figures are self-reported, unaudited, or come from people familiar with the matter.",
+    "A run rate is the latest month or quarter times 12. It is not the year's revenue.",
+    "\"Adjusted\" profit leaves out costs such as stock-based compensation.",
+    "Two Bloomberg pages were paywalled, so only their teasers were read (marked short page)."
+  ]
+}

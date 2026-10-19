@@ -1,0 +1,32 @@
+{
+  "question": "Is the AI boom making money yet? How does AI spending compare with AI revenue in 2026?",
+  "lang": "en",
+  "subquestions": [
+    {"id": "Q1", "text": "How much are the biggest tech companies spending on AI data centers and chips in 2025 and 2026?"},
+    {"id": "Q2", "text": "How much revenue do the leading AI labs (OpenAI, Anthropic) make in 2026?"},
+    {"id": "Q3", "text": "How much do the cloud providers earn from AI (Azure, AWS, Google Cloud growth)?"},
+    {"id": "Q4", "text": "Are AI companies profitable, and how big are their losses?"},
+    {"id": "Q5", "text": "What do skeptics say: is it a bubble?"}
+  ],
+  "queries": [
+    {"q": "big tech AI capital expenditure 2026 Microsoft Alphabet Amazon Meta", "sub": "Q1", "count": 30, "after": "2026-01"},
+    {"q": "hyperscaler capex 2026 forecast data centers", "sub": "Q1", "count": 30, "after": "2026-04"},
+    {"q": "Meta capital expenditures 2026 guidance", "sub": "Q1", "count": 20, "after": "2026-06"},
+    {"q": "Microsoft capital expenditures quarter AI", "sub": "Q1", "count": 20, "after": "2026-06"},
+    {"q": "OpenAI annualized revenue 2026", "sub": "Q2", "count": 30, "after": "2026-05"},
+    {"q": "Anthropic annualized revenue run rate 2026", "sub": "Q2", "count": 30, "after": "2026-05"},
+    {"q": "OpenAI revenue 2026 projection billion", "sub": "Q2", "count": 20, "after": "2026-01"},
+    {"q": "Azure revenue growth AI quarter", "sub": "Q3", "count": 20, "after": "2026-06"},
+    {"q": "Google Cloud revenue growth AI quarter", "sub": "Q3", "count": 20, "after": "2026-06"},
+    {"q": "AWS revenue growth quarter AI demand", "sub": "Q3", "count": 20, "after": "2026-06"},
+    {"q": "OpenAI losses 2026 cash burn", "sub": "Q4", "count": 30, "after": "2026-01"},
+    {"q": "Anthropic cash burn profitability", "sub": "Q4", "count": 20, "after": "2026-01"},
+    {"q": "AI companies profitable inference costs margins", "sub": "Q4", "count": 20, "after": "2026-01"},
+    {"q": "AI bubble warning 2026 spending revenue gap", "sub": "Q5", "count": 30, "after": "2026-03"},
+    {"q": "AI revenue gap capex payback analysis", "sub": "Q5", "count": 20, "after": "2026-01"},
+    {"q": "AI investment returns enterprise adoption survey 2026", "sub": "Q5", "count": 20, "after": "2026-01"},
+    {"q": "Nvidia data center revenue quarter", "sub": "Q1", "count": 20, "after": "2026-06"},
+    {"q": "AI spending revenue site:reuters.com", "sub": "Q5", "count": 20, "after": "2026-06"}
+  ],
+  "read": 26
+}

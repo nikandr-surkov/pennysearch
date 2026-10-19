@@ -1,0 +1,12 @@
+{
+  "question": "How much do the cloud providers earn from AI in 2026 (Azure, AWS, Google Cloud growth)?",
+  "lang": "en",
+  "queries": [
+    {"q": "Microsoft Azure revenue growth percent quarter 2026", "sub": "Q3", "count": 20, "after": "2026-07"},
+    {"q": "AWS revenue growth quarter 2026 billion", "sub": "Q3", "count": 20, "after": "2026-07"},
+    {"q": "Google Cloud revenue quarter 2026 billion growth", "sub": "Q3", "count": 20, "after": "2026-07"},
+    {"q": "Microsoft AI business annual revenue run rate", "sub": "Q3", "count": 20, "after": "2026-01"},
+    {"q": "cloud backlog remaining performance obligations AI 2026", "sub": "Q3", "count": 20, "after": "2026-06"}
+  ],
+  "read": 6
+}
